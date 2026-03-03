@@ -1,0 +1,36 @@
+export default {
+  async fetch(request) {
+
+    const matches = [
+      {
+        id: 1,
+        team1: "Barcelona",
+        team2: "Atlético Madrid",
+        team1_logo: "https://example.com/barca.png",
+        team2_logo: "https://example.com/atletico.png",
+        league: "La Liga",
+        start: "2026-03-04 18:45:00",
+        duration: 2,
+        venue: "Camp Nou"
+      },
+      {
+        id: 2,
+        team1: "Manchester United",
+        team2: "Liverpool",
+        team1_logo: "https://example.com/mu.png",
+        team2_logo: "https://example.com/liv.png",
+        league: "Premier League",
+        start: "2026-03-05 21:00:00",
+        duration: 2,
+        venue: "Old Trafford"
+      }
+    ];
+
+    return new Response(JSON.stringify({ matches }), {
+      headers: {
+        "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*"
+      }
+    });
+  }
+};
