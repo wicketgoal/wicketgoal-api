@@ -1,12 +1,14 @@
 export default {
   async fetch(request) {
 
+    const API_KEY = "YOUR_API_KEY";
+
+    // Example: Next 20 Premier League matches
     const response = await fetch(
-      "https://api-football-v1.p.rapidapi.com/v3/fixtures?league=39&season=2025&next=20",
+      "https://v3.football.api-sports.io/fixtures?league=39&season=2025&next=20",
       {
         headers: {
-          "x-rapidapi-key": "d2dc11c53cbbb1cf18b4bd940869fa93",
-          "x-rapidapi-host": "api-football-v1.p.rapidapi.com"
+          "x-apisports-key": d2dc11c53cbbb1cf18b4bd940869fa93
         }
       }
     );
@@ -28,9 +30,9 @@ export default {
     return new Response(JSON.stringify({ matches }), {
       headers: {
         "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "*"
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=600"
       }
     });
   }
 };
-
