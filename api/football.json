@@ -4,73 +4,23 @@
       "league": "UEFA Champions League",
       "home": "Bayer Leverkusen",
       "home_logo": "https://crests.football-data.org/3.png",
+      "home_sofascore_id": 2681,
       "away": "Arsenal",
       "away_logo": "https://crests.football-data.org/57.png",
+      "away_sofascore_id": 42,
       "kickoff": "2026-03-11T16:45:00Z",
-      "duration": 2
-    },
-    {
-      "league": "UEFA Champions League",
-      "home": "Real Madrid",
-      "home_logo": "https://crests.football-data.org/86.png",
-      "away": "Manchester City",
-      "away_logo": "https://crests.football-data.org/65.png",
-      "kickoff": "2026-03-11T20:00:00Z",
-      "duration": 2
-    },
-    {
-      "league": "UEFA Champions League",
-      "home": "PSG",
-      "home_logo": "https://crests.football-data.org/524.png",
-      "away": "Chelsea",
-      "away_logo": "https://crests.football-data.org/61.png",
-      "kickoff": "2026-03-11T20:00:00Z",
       "duration": 2
     },
     {
       "league": "English Championship",
       "home": "Coventry City",
-      "home_logo": "https://via.placeholder.com/60?text=CC",
+      "home_logo": "",
+      "home_sofascore_id": 12345,
       "away": "Preston North End",
-      "away_logo": "https://via.placeholder.com/60?text=PNE",
+      "away_logo": "",
+      "away_sofascore_id": 67890,
       "kickoff": "2026-03-11T19:45:00Z",
       "duration": 2
-    },
-    {
-      "league": "English Championship",
-      "home": "Middlesbrough",
-      "home_logo": "https://via.placeholder.com/60?text=MBR",
-      "away": "Charlton Athletic",
-      "away_logo": "https://via.placeholder.com/60?text=CA",
-      "kickoff": "2026-03-11T19:45:00Z",
-      "duration": 2
-    },
-    {
-      "league": "English Championship",
-      "home": "Oxford United",
-      "home_logo": "https://via.placeholder.com/60?text=OU",
-      "away": "Blackburn Rovers",
-      "away_logo": "https://crests.football-data.org/60.png",
-      "kickoff": "2026-03-11T19:45:00Z",
-      "duration": 2
-    },
-    {
-      "league": "English Championship",
-      "home": "West Bromwich Albion",
-      "home_logo": "https://crests.football-data.org/74.png",
-      "away": "Southampton",
-      "away_logo": "https://crests.football-data.org/63.png",
-      "kickoff": "2026-03-11T19:45:00Z",
-      "duration": 2
-    },
-    {
-      "league": "Brazil Serie A",
-      "home": "Mirassol",
-      "home_logo": "https://via.placeholder.com/60?text=MIR",
-      "away": "Santos",
-      "away_logo": "https://via.placeholder.com/60?text=SAN",
-      "kickoff": "2026-03-11T15:00:00Z",
-      "duration": 2.2
     }
   ]
 }
