@@ -3,24 +3,74 @@
     {
       "league": "UEFA Champions League",
       "home": "Bayer Leverkusen",
-      "home_logo": "https://crests.football-data.org/3.png",
-      "home_sofascore_id": 2681,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bayer_04_Leverkusen_logo.svg",
       "away": "Arsenal",
-      "away_logo": "https://crests.football-data.org/57.png",
-      "away_sofascore_id": 42,
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
       "kickoff": "2026-03-11T16:45:00Z",
+      "duration": 2
+    },
+    {
+      "league": "UEFA Champions League",
+      "home": "Real Madrid",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "away": "Manchester City",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "kickoff": "2026-03-11T20:00:00Z",
+      "duration": 2
+    },
+    {
+      "league": "UEFA Champions League",
+      "home": "PSG",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_FC_logo.svg",
+      "away": "Chelsea",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "kickoff": "2026-03-11T20:00:00Z",
       "duration": 2
     },
     {
       "league": "English Championship",
       "home": "Coventry City",
-      "home_logo": "",
-      "home_sofascore_id": 12345,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/d/d0/Coventry_City_FC_logo.svg",
       "away": "Preston North End",
-      "away_logo": "",
-      "away_sofascore_id": 67890,
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/Preston_North_End.svg",
       "kickoff": "2026-03-11T19:45:00Z",
       "duration": 2
+    },
+    {
+      "league": "English Championship",
+      "home": "Middlesbrough",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Middlesbrough_FC.svg",
+      "away": "Charlton Athletic",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/c/cb/Charlton_Athletic_FC_logo.svg",
+      "kickoff": "2026-03-11T19:45:00Z",
+      "duration": 2
+    },
+    {
+      "league": "English Championship",
+      "home": "Oxford United",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/7/7d/Oxford_United.svg",
+      "away": "Blackburn Rovers",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/0/0a/Blackburn_Rovers.svg",
+      "kickoff": "2026-03-11T19:45:00Z",
+      "duration": 2
+    },
+    {
+      "league": "English Championship",
+      "home": "West Bromwich Albion",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/f/f9/West_Bromwich_Albion.svg",
+      "away": "Southampton",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/Southampton_FC.svg",
+      "kickoff": "2026-03-11T19:45:00Z",
+      "duration": 2
+    },
+    {
+      "league": "Brazil Serie A",
+      "home": "Mirassol",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Mirassol_FC_logo.svg",
+      "away": "Santos",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Santos_FC_%28Brazil%29_logo.svg",
+      "kickoff": "2026-03-11T15:00:00Z",
+      "duration": 2.2
     }
   ]
 }
