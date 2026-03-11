@@ -3,72 +3,72 @@
     {
       "league": "UEFA Champions League",
       "home": "Bayer Leverkusen",
-      "home_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bayer_04_Leverkusen_logo.svg",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2681/image",
       "away": "Arsenal",
-      "away_logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/42/image",
       "kickoff": "2026-03-11T16:45:00Z",
       "duration": 2
     },
     {
       "league": "UEFA Champions League",
       "home": "Real Madrid",
-      "home_logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2829/image",
       "away": "Manchester City",
-      "away_logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/17/image",
       "kickoff": "2026-03-11T20:00:00Z",
       "duration": 2
     },
     {
       "league": "UEFA Champions League",
       "home": "PSG",
-      "home_logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_FC_logo.svg",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/1644/image",
       "away": "Chelsea",
-      "away_logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/38/image",
       "kickoff": "2026-03-11T20:00:00Z",
       "duration": 2
     },
     {
       "league": "English Championship",
       "home": "Coventry City",
-      "home_logo": "https://upload.wikimedia.org/wikipedia/en/d/d0/Coventry_City_FC_logo.svg",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/1049/image",
       "away": "Preston North End",
-      "away_logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/Preston_North_End.svg",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/1785/image",
       "kickoff": "2026-03-11T19:45:00Z",
       "duration": 2
     },
     {
       "league": "English Championship",
       "home": "Middlesbrough",
-      "home_logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Middlesbrough_FC.svg",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/169/image",
       "away": "Charlton Athletic",
-      "away_logo": "https://upload.wikimedia.org/wikipedia/en/c/cb/Charlton_Athletic_FC_logo.svg",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/141/image",
       "kickoff": "2026-03-11T19:45:00Z",
       "duration": 2
     },
     {
       "league": "English Championship",
       "home": "Oxford United",
-      "home_logo": "https://upload.wikimedia.org/wikipedia/en/7/7d/Oxford_United.svg",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/499/image",
       "away": "Blackburn Rovers",
-      "away_logo": "https://upload.wikimedia.org/wikipedia/en/0/0a/Blackburn_Rovers.svg",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/113/image",
       "kickoff": "2026-03-11T19:45:00Z",
       "duration": 2
     },
     {
       "league": "English Championship",
       "home": "West Bromwich Albion",
-      "home_logo": "https://upload.wikimedia.org/wikipedia/en/f/f9/West_Bromwich_Albion.svg",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/1133/image",
       "away": "Southampton",
-      "away_logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/Southampton_FC.svg",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/41/image",
       "kickoff": "2026-03-11T19:45:00Z",
       "duration": 2
     },
     {
       "league": "Brazil Serie A",
       "home": "Mirassol",
-      "home_logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Mirassol_FC_logo.svg",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/6561/image",
       "away": "Santos",
-      "away_logo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Santos_FC_%28Brazil%29_logo.svg",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/3001/image",
       "kickoff": "2026-03-11T15:00:00Z",
       "duration": 2.2
     }
