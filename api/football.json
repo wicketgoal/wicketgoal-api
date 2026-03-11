@@ -1,27 +1,18 @@
 {
-  "matches": [
+  "matches":[
     {
-      "id": "test1",
-      "league": "Premier League",
-
-      "home": {
-        "name": "Liverpool",
-        "logo": "https://api.sofascore.app/api/v1/team/44/image",
-        "slug": "liverpool"
-      },
-
-      "away": {
-        "name": "Chelsea",
-        "logo": "https://api.sofascore.app/api/v1/team/38/image",
-        "slug": "chelsea"
-      },
-
-      "kickoff": "2026-03-11T19:30:00Z",
-      "duration": 2,
-
-      "status": "auto",
-
-      "link": "https://wicketgoal-tv.com/?match=liverpool"
+      "league":"Premier League",
+      "home":"Liverpool",
+      "away":"Chelsea",
+      "kickoff":"2026-03-11T19:30:00Z",
+      "duration":2
+    },
+    {
+      "league":"La Liga",
+      "home":"Barcelona",
+      "away":"Real Madrid",
+      "kickoff":"2026-03-11T21:00:00Z",
+      "duration":2
     }
   ]
 }
