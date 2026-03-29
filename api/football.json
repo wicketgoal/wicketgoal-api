@@ -1,94 +1,48 @@
 {
   "matches": [
     {
-      "league": "LaLiga",
-      "home": "Barcelona",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2817/image",
-      "away": "Rayo Vallecano",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2824/image",
-      "kickoff": "2026-03-29T06:00:00Z",
+      "league": "International Friendly",
+      "home": "Scotland",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4699/image",
+      "away": "Ivory Coast",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4775/image",
+      "kickoff": "2026-03-29T19:45:00Z",
       "duration": 2
     },
     {
-      "league": "LaLiga",
-      "home": "Celta Vigo",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2825/image",
-      "away": "Deportivo Alaves",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2862/image",
-      "kickoff": "2026-03-29T08:15:00Z",
+      "league": "International Friendly",
+      "home": "Mexico",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4781/image",
+      "away": "Portugal",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4704/image",
+      "kickoff": "2026-03-29T23:00:00Z",
       "duration": 2
     },
     {
-      "league": "Serie A",
-      "home": "Inter",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2697/image",
-      "away": "Roma",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2702/image",
-      "kickoff": "2026-03-29T16:00:00Z",
+      "league": "International Friendly",
+      "home": "United States",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4713/image",
+      "away": "Portugal",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4704/image",
+      "kickoff": "2026-03-30T00:00:00Z",
       "duration": 2
     },
     {
-      "league": "Bundesliga",
-      "home": "Borussia Dortmund",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2673/image",
-      "away": "Eintracht Frankfurt",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2676/image",
-      "kickoff": "2026-03-29T17:30:00Z",
+      "league": "International Friendly",
+      "home": "England",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4713/image",
+      "away": "Brazil",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4748/image",
+      "kickoff": "2026-03-30T19:00:00Z",
       "duration": 2
     },
     {
-      "league": "Ligue 1",
-      "home": "Marseille",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/1641/image",
-      "away": "Monaco",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/1653/image",
-      "kickoff": "2026-03-29T19:00:00Z",
-      "duration": 2
-    },
-
-    {
-      "league": "English Premier League",
-      "home": "Liverpool",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/44/image",
-      "away": "Tottenham",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/33/image",
-      "kickoff": "2026-03-30T15:30:00Z",
-      "duration": 2
-    },
-    {
-      "league": "English Premier League",
-      "home": "Manchester City",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/17/image",
-      "away": "West Ham",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/37/image",
-      "kickoff": "2026-03-30T18:00:00Z",
-      "duration": 2
-    },
-    {
-      "league": "English Championship",
-      "home": "Leicester City",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/46/image",
-      "away": "Southampton",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/41/image",
-      "kickoff": "2026-03-30T18:45:00Z",
-      "duration": 2
-    },
-    {
-      "league": "UEFA Champions League",
-      "home": "Real Madrid",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2829/image",
-      "away": "Bayern Munich",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2672/image",
-      "kickoff": "2026-03-30T20:00:00Z",
-      "duration": 2
-    },
-    {
-      "league": "UEFA Europa League",
-      "home": "AC Milan",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2692/image",
-      "away": "Benfica",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/3002/image",
-      "kickoff": "2026-03-30T20:00:00Z",
+      "league": "International Friendly",
+      "home": "France",
+      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4481/image",
+      "away": "Germany",
+      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4480/image",
+      "kickoff": "2026-03-30T19:45:00Z",
       "duration": 2
     }
   ]
