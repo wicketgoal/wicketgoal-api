@@ -3,81 +3,81 @@
     {
       "league": "International Friendly",
       "home": "Colombia",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4757/image",
+      "home_logo": "https://flagcdn.com/w320/co.png",
       "away": "France",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4481/image",
+      "away_logo": "https://flagcdn.com/w320/fr.png",
       "kickoff": "2026-03-29T19:00:00Z",
       "duration": 2
     },
     {
       "league": "International Friendly",
       "home": "Martinique",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4872/image",
+      "home_logo": "https://flagcdn.com/w320/mq.png",
       "away": "El Salvador",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4778/image",
+      "away_logo": "https://flagcdn.com/w320/sv.png",
       "kickoff": "2026-03-29T19:00:00Z",
       "duration": 2
     },
     {
       "league": "International Friendly",
       "home": "Barbados",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4884/image",
+      "home_logo": "https://flagcdn.com/w320/bb.png",
       "away": "Saint Vincent and the Grenadines",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4889/image",
+      "away_logo": "https://flagcdn.com/w320/vc.png",
       "kickoff": "2026-03-29T20:00:00Z",
       "duration": 2
     },
     {
       "league": "International Friendly",
       "home": "British Virgin Islands",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4901/image",
+      "home_logo": "https://flagcdn.com/w320/vg.png",
       "away": "Anguilla",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4895/image",
+      "away_logo": "https://flagcdn.com/w320/ai.png",
       "kickoff": "2026-03-29T21:30:00Z",
       "duration": 2
     },
     {
       "league": "International Friendly",
       "home": "Dominican Republic",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4754/image",
+      "home_logo": "https://flagcdn.com/w320/do.png",
       "away": "Cuba",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4765/image",
+      "away_logo": "https://flagcdn.com/w320/cu.png",
       "kickoff": "2026-03-29T22:00:00Z",
       "duration": 2
     },
     {
       "league": "International Friendly",
       "home": "Cayman Islands",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4892/image",
+      "home_logo": "https://flagcdn.com/w320/ky.png",
       "away": "Bahamas",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4878/image",
+      "away_logo": "https://flagcdn.com/w320/bs.png",
       "kickoff": "2026-03-30T00:00:00Z",
       "duration": 2
     },
     {
       "league": "International Friendly",
       "home": "Cyprus",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4717/image",
+      "home_logo": "https://flagcdn.com/w320/cy.png",
       "away": "Moldova",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4760/image",
+      "away_logo": "https://flagcdn.com/w320/md.png",
       "kickoff": "2026-03-30T16:00:00Z",
       "duration": 2
     },
     {
       "league": "International Friendly",
       "home": "Germany",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4480/image",
+      "home_logo": "https://flagcdn.com/w320/de.png",
       "away": "Ghana",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4759/image",
+      "away_logo": "https://flagcdn.com/w320/gh.png",
       "kickoff": "2026-03-30T18:45:00Z",
       "duration": 2
     },
     {
       "league": "International Friendly",
       "home": "Guyana",
-      "home_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4880/image",
+      "home_logo": "https://flagcdn.com/w320/gy.png",
       "away": "Belize",
-      "away_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4876/image",
+      "away_logo": "https://flagcdn.com/w320/bz.png",
       "kickoff": "2026-03-30T19:00:00Z",
       "duration": 2
     }
