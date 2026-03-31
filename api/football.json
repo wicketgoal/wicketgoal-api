@@ -9,6 +9,10 @@
       "kickoff": "2026-03-30T00:45:00Z",
       "duration": 2
     },
+
+        {"league":"AFC Asian Cup Qualification","format":"","team1":"Nepal","team2":"Laos","venue":"Lao National Stadium KM16","start_time":"2026-03-31T12:00:00Z","duration":2.2},
+
+    
     {
       "league": "International Friendly",
       "home": "Martinique",
