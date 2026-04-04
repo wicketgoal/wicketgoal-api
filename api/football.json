@@ -144,6 +144,165 @@
       "start_time": "2026-04-04T22:15:00Z",
       "duration": 2,
       "venue": "MHPArena, Stuttgart, Germany"
+    },
+
+  
+    /* --- French Ligue 1 2026 --- */
+    {
+      "league": "French Ligue 1 2026",
+      "team1": "Strasbourg",
+      "team2": "Nice",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/1/1d/RC_Strasbourg_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/e/e1/OGC_Nice_logo.svg",
+      "start_time": "2026-04-04T20:45:00Z",
+      "duration": 2,
+      "venue": "Stade de la Meinau, Strasbourg, France"
+    },
+    {
+      "league": "French Ligue 1 2026",
+      "team1": "Brest",
+      "team2": "Stade Rennais",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/8/8b/Stade_Brestois_29_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Stade_Rennais_FC_logo.svg",
+      "start_time": "2026-04-04T22:45:00Z",
+      "duration": 2,
+      "venue": "Stade Francis-Le Blé, Brest, France"
+    },
+    {
+      "league": "French Ligue 1 2026",
+      "team1": "Lille",
+      "team2": "Lens",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Lille_OSC_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/3/36/RC_Lens_logo.svg",
+      "start_time": "2026-04-05T00:50:00Z",
+      "duration": 2,
+      "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille, France"
+    },
+
+    /* --- Portuguese Primeira Liga 2026 --- */
+    {
+      "league": "Portuguese Primeira Liga 2026",
+      "team1": "C.D. Nacional",
+      "team2": "Estrela",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/e/e6/CD_Nacional_logo.svg",
+      "team2_logo": "https://via.placeholder.com/55?text=Estrela",
+      "start_time": "2026-04-04T19:15:00Z",
+      "duration": 2,
+      "venue": "Estádio da Madeira, Funchal, Portugal"
+    },
+    {
+      "league": "Portuguese Primeira Liga 2026",
+      "team1": "Moreirense",
+      "team2": "Braga",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Moreirense_FC_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/S.C._Braga_logo.svg",
+      "start_time": "2026-04-04T22:45:00Z",
+      "duration": 2,
+      "venue": "Estádio Comendador Joaquim de Almeida Freitas, Moreira de Conegos, Portugal"
+    },
+    {
+      "league": "Portuguese Primeira Liga 2026",
+      "team1": "Rio Ave",
+      "team2": "Alverca",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/8/85/Rio_Ave_FC_logo.svg",
+      "team2_logo": "https://via.placeholder.com/55?text=Alverca",
+      "start_time": "2026-04-04T22:45:00Z",
+      "duration": 2,
+      "venue": "Estádio do Rio Ave, Vila do Conde, Portugal"
+    },
+    {
+      "league": "Portuguese Primeira Liga 2026",
+      "team1": "FC Porto",
+      "team2": "FC Famalicao",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/9/9c/F.C._Famalicão_logo.png",
+      "start_time": "2026-04-05T01:15:00Z",
+      "duration": 2,
+      "venue": "Estádio do Dragão, Porto, Portugal"
+    },
+
+    /* --- Dutch Eredivisie 2026 --- */
+    {
+      "league": "Dutch Eredivisie 2026",
+      "team1": "PSV Eindhoven",
+      "team2": "FC Utrecht",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/0/0b/PSV_Eindhoven_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/5/5a/FC_Utrecht_logo.svg",
+      "start_time": "2026-04-04T20:15:00Z",
+      "duration": 2,
+      "venue": "Philips Stadion, Eindhoven, Netherlands"
+    },
+    {
+      "league": "Dutch Eredivisie 2026",
+      "team1": "AZ Alkmaar",
+      "team2": "Fortuna Sittard",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/AZ_Alkmaar_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/e/ef/Fortuna_Sittard_logo.svg",
+      "start_time": "2026-04-04T22:30:00Z",
+      "duration": 2,
+      "venue": "AFAS Stadion, Alkmaar, Netherlands"
+    },
+    {
+      "league": "Dutch Eredivisie 2026",
+      "team1": "Telstar",
+      "team2": "FC Groningen",
+      "team1_logo": "https://via.placeholder.com/55?text=Telstar",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/2/2f/FC_Groningen_logo.svg",
+      "start_time": "2026-04-04T22:30:00Z",
+      "duration": 2,
+      "venue": "711 Stadion, Velsen-Zuid, Netherlands"
+    },
+    {
+      "league": "Dutch Eredivisie 2026",
+      "team1": "Ajax Amsterdam",
+      "team2": "FC Twente",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Ajax_Amsterdam_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/9/9b/FC_Twente_logo.svg",
+      "start_time": "2026-04-05T00:45:00Z",
+      "duration": 2,
+      "venue": "Johan Cruijff Arena, Amsterdam, Netherlands"
+    },
+    {
+      "league": "Dutch Eredivisie 2026",
+      "team1": "Excelsior",
+      "team2": "NEC Nijmegen",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/Excelsior_Rotterdam_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/8/85/NEC_Nijmegen_logo.svg",
+      "start_time": "2026-04-05T00:45:00Z",
+      "duration": 2,
+      "venue": "Stadion Woudestein, Rotterdam, Netherlands"
+    },
+
+    /* --- English FA Cup 2026 --- */
+    {
+      "league": "FA Cup 2026",
+      "team1": "Manchester City",
+      "team2": "Liverpool",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "start_time": "2026-04-04T17:30:00Z",
+      "duration": 2,
+      "venue": "Etihad Stadium, Manchester, England"
+    },
+    {
+      "league": "FA Cup 2026",
+      "team1": "Chelsea",
+      "team2": "Port Vale",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/Port_Vale_FC_logo.svg",
+      "start_time": "2026-04-04T22:00:00Z",
+      "duration": 2,
+      "venue": "Stamford Bridge, London, England"
+    },
+    {
+      "league": "FA Cup 2026",
+      "team1": "Southampton",
+      "team2": "Arsenal",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "start_time": "2026-04-05T00:45:00Z",
+      "duration": 2,
+      "venue": "St. Mary's Stadium, Southampton, England"
     }
   ]
 }
