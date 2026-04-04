@@ -2,7 +2,7 @@
   "matches": [
     /* --- Spanish LaLiga 2026 --- */
     {
-      "league": "LaLiga",
+      "league": "Spanish LaLiga 2026",
       "team1": "Real Sociedad",
       "team2": "Levante",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/2/20/Real_Sociedad_logo.svg",
@@ -12,7 +12,7 @@
       "venue": "Reale Arena, San Sebastian, Spain"
     },
     {
-      "league": "LaLiga ",
+      "league": "Spanish LaLiga 2026",
       "team1": "Mallorca",
       "team2": "Real Madrid",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/0/02/RCD_Mallorca_logo.svg",
@@ -22,7 +22,7 @@
       "venue": "Estadi Mallorca Son Moix, Palma de Mallorca, Spain"
     },
     {
-      "league": "LaLiga ",
+      "league": "Spanish LaLiga 2026",
       "team1": "Real Betis",
       "team2": "Espanyol",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/1/19/Real_Betis_logo.svg",
@@ -32,7 +32,7 @@
       "venue": "Estadio La Cartuja, Sevilla, Spain"
     },
     {
-      "league": "LaLiga ",
+      "league": "Spanish LaLiga 2026",
       "team1": "Atlético Madrid",
       "team2": "Barcelona",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
@@ -44,7 +44,7 @@
 
     /* --- Italian Serie A 2026 --- */
     {
-      "league": "Serie A ",
+      "league": "Italian Serie A 2026",
       "team1": "Sassuolo",
       "team2": "Cagliari",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/3/36/US_Sassuolo_Calcio_logo.svg",
@@ -54,7 +54,7 @@
       "venue": "Mapei Stadium, Reggio Emilia, Italy"
     },
     {
-      "league": "Serie A",
+      "league": "Italian Serie A 2026",
       "team1": "Hellas Verona",
       "team2": "Fiorentina",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/0/09/Hellas_Verona_logo.svg",
@@ -64,7 +64,7 @@
       "venue": "Stadio Marcantonio Bentegodi, Verona, Italy"
     },
     {
-      "league": "Serie A ",
+      "league": "Italian Serie A 2026",
       "team1": "Lazio",
       "team2": "Parma",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/SS_Lazio_Logo.svg",
@@ -76,7 +76,7 @@
 
     /* --- German Bundesliga 2026 --- */
     {
-      "league": "Bundesliga",
+      "league": "German Bundesliga 2026",
       "team1": "Bayer Leverkusen",
       "team2": "VfL Wolfsburg",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Bayer_04_Leverkusen_logo.svg",
@@ -86,7 +86,7 @@
       "venue": "BayArena, Leverkusen, Germany"
     },
     {
-      "league": "Bundesliga",
+      "league": "German Bundesliga 2026",
       "team1": "Borussia Mönchengladbach",
       "team2": "1. FC Heidenheim 1846",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Borussia_Mönchengladbach_logo.svg",
@@ -96,7 +96,7 @@
       "venue": "BORUSSIA-PARK, Mönchengladbach, Germany"
     },
     {
-      "league": "Bundesliga",
+      "league": "German Bundesliga 2026",
       "team1": "Hamburg SV",
       "team2": "FC Augsburg",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/3/32/Hamburger_SV_logo.svg",
@@ -106,7 +106,7 @@
       "venue": "Volksparkstadion, Hamburg Norderstedt, Germany"
     },
     {
-      "league": "Bundesliga",
+      "league": "German Bundesliga 2026",
       "team1": "SC Freiburg",
       "team2": "Bayern Munich",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/SC_Freiburg_logo.svg",
@@ -116,7 +116,7 @@
       "venue": "Europa-Park Stadion, Freiburg im Breisgau, Germany"
     },
     {
-      "league": "Bundesliga",
+      "league": "German Bundesliga 2026",
       "team1": "TSG Hoffenheim",
       "team2": "Mainz",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/e/e1/TSG_1899_Hoffenheim_logo.svg",
@@ -126,7 +126,7 @@
       "venue": "PreZero Arena, Sinsheim, Germany"
     },
     {
-      "league": "Bundesliga",
+      "league": "German Bundesliga 2026",
       "team1": "Werder Bremen",
       "team2": "RB Leipzig",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/2/2c/SV_Werder_Bremen_logo.svg",
@@ -136,7 +136,7 @@
       "venue": "Weserstadion, Bremen, Germany"
     },
     {
-      "league": "Bundesliga",
+      "league": "German Bundesliga 2026",
       "team1": "VfB Stuttgart",
       "team2": "Borussia Dortmund",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/0/05/VfB_Stuttgart_Logo.svg",
@@ -149,7 +149,7 @@
   
     /* --- French Ligue 1 2026 --- */
     {
-      "league": "French Ligue 1",
+      "league": "French Ligue 1 2026",
       "team1": "Strasbourg",
       "team2": "Nice",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/1/1d/RC_Strasbourg_logo.svg",
@@ -159,7 +159,7 @@
       "venue": "Stade de la Meinau, Strasbourg, France"
     },
     {
-      "league": "French Ligue 1",
+      "league": "French Ligue 1 2026",
       "team1": "Brest",
       "team2": "Stade Rennais",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/8/8b/Stade_Brestois_29_logo.svg",
@@ -169,7 +169,7 @@
       "venue": "Stade Francis-Le Blé, Brest, France"
     },
     {
-      "league": "French Ligue 1",
+      "league": "French Ligue 1 2026",
       "team1": "Lille",
       "team2": "Lens",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Lille_OSC_logo.svg",
@@ -181,7 +181,7 @@
 
     /* --- Portuguese Primeira Liga 2026 --- */
     {
-      "league": "Primeira Liga",
+      "league": "Portuguese Primeira Liga 2026",
       "team1": "C.D. Nacional",
       "team2": "Estrela",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/e/e6/CD_Nacional_logo.svg",
@@ -191,7 +191,7 @@
       "venue": "Estádio da Madeira, Funchal, Portugal"
     },
     {
-      "league": "Primeira Liga",
+      "league": "Portuguese Primeira Liga 2026",
       "team1": "Moreirense",
       "team2": "Braga",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Moreirense_FC_logo.svg",
@@ -201,7 +201,7 @@
       "venue": "Estádio Comendador Joaquim de Almeida Freitas, Moreira de Conegos, Portugal"
     },
     {
-      "league": "Primeira Liga",
+      "league": "Portuguese Primeira Liga 2026",
       "team1": "Rio Ave",
       "team2": "Alverca",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/8/85/Rio_Ave_FC_logo.svg",
@@ -211,7 +211,7 @@
       "venue": "Estádio do Rio Ave, Vila do Conde, Portugal"
     },
     {
-      "league": "Primeira Liga",
+      "league": "Portuguese Primeira Liga 2026",
       "team1": "FC Porto",
       "team2": "FC Famalicao",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg",
@@ -223,7 +223,7 @@
 
     /* --- Dutch Eredivisie 2026 --- */
     {
-      "league": "Eredivisie ",
+      "league": "Dutch Eredivisie 2026",
       "team1": "PSV Eindhoven",
       "team2": "FC Utrecht",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/0/0b/PSV_Eindhoven_logo.svg",
@@ -233,7 +233,7 @@
       "venue": "Philips Stadion, Eindhoven, Netherlands"
     },
     {
-      "league": "Eredivisie",
+      "league": "Dutch Eredivisie 2026",
       "team1": "AZ Alkmaar",
       "team2": "Fortuna Sittard",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/AZ_Alkmaar_logo.svg",
@@ -243,7 +243,7 @@
       "venue": "AFAS Stadion, Alkmaar, Netherlands"
     },
     {
-      "league": "Eredivisie ",
+      "league": "Dutch Eredivisie 2026",
       "team1": "Telstar",
       "team2": "FC Groningen",
       "team1_logo": "https://via.placeholder.com/55?text=Telstar",
@@ -253,7 +253,7 @@
       "venue": "711 Stadion, Velsen-Zuid, Netherlands"
     },
     {
-      "league": "Eredivisie",
+      "league": "Dutch Eredivisie 2026",
       "team1": "Ajax Amsterdam",
       "team2": "FC Twente",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Ajax_Amsterdam_logo.svg",
@@ -263,7 +263,7 @@
       "venue": "Johan Cruijff Arena, Amsterdam, Netherlands"
     },
     {
-      "league": "Eredivisie",
+      "league": "Dutch Eredivisie 2026",
       "team1": "Excelsior",
       "team2": "NEC Nijmegen",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/Excelsior_Rotterdam_logo.svg",
@@ -275,7 +275,7 @@
 
     /* --- English FA Cup 2026 --- */
     {
-      "league": "FA Cup",
+      "league": "FA Cup 2026",
       "team1": "Manchester City",
       "team2": "Liverpool",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
@@ -285,7 +285,7 @@
       "venue": "Etihad Stadium, Manchester, England"
     },
     {
-      "league": "FA Cup",
+      "league": "FA Cup 2026",
       "team1": "Chelsea",
       "team2": "Port Vale",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
@@ -295,7 +295,7 @@
       "venue": "Stamford Bridge, London, England"
     },
     {
-      "league": "FA Cup",
+      "league": "FA Cup 2026",
       "team1": "Southampton",
       "team2": "Arsenal",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
