@@ -1,12 +1,13 @@
 {
   "matches": [
+    /* --- Spanish LaLiga 2026 --- */
     {
       "league": "Spanish LaLiga 2026",
       "team1": "Real Sociedad",
       "team2": "Levante",
-      "team1_logo": "https://via.placeholder.com/55?text=RS",
-      "team2_logo": "https://via.placeholder.com/55?text=L",
-      "start_time": "2026-04-04T15:45:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/2/20/Real_Sociedad_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Levante_U.D._logo.svg",
+      "start_time": "2026-04-04T17:45:00Z",
       "duration": 2,
       "venue": "Reale Arena, San Sebastian, Spain"
     },
@@ -14,9 +15,9 @@
       "league": "Spanish LaLiga 2026",
       "team1": "Mallorca",
       "team2": "Real Madrid",
-      "team1_logo": "https://via.placeholder.com/55?text=M",
-      "team2_logo": "https://via.placeholder.com/55?text=RM",
-      "start_time": "2026-04-04T18:00:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/0/02/RCD_Mallorca_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "start_time": "2026-04-04T20:00:00Z",
       "duration": 2,
       "venue": "Estadi Mallorca Son Moix, Palma de Mallorca, Spain"
     },
@@ -24,9 +25,9 @@
       "league": "Spanish LaLiga 2026",
       "team1": "Real Betis",
       "team2": "Espanyol",
-      "team1_logo": "https://via.placeholder.com/55?text=RB",
-      "team2_logo": "https://via.placeholder.com/55?text=E",
-      "start_time": "2026-04-04T20:15:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/1/19/Real_Betis_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/Reial_Espanyol_de_F%C3%B2tbol_logo.svg",
+      "start_time": "2026-04-04T22:15:00Z",
       "duration": 2,
       "venue": "Estadio La Cartuja, Sevilla, Spain"
     },
@@ -34,19 +35,21 @@
       "league": "Spanish LaLiga 2026",
       "team1": "Atlético Madrid",
       "team2": "Barcelona",
-      "team1_logo": "https://via.placeholder.com/55?text=AM",
-      "team2_logo": "https://via.placeholder.com/55?text=B",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
       "start_time": "2026-04-05T00:45:00Z",
       "duration": 2,
       "venue": "Riyadh Air Metropolitano, Madrid, Spain"
     },
+
+    /* --- Italian Serie A 2026 --- */
     {
       "league": "Italian Serie A 2026",
       "team1": "Sassuolo",
       "team2": "Cagliari",
-      "team1_logo": "https://via.placeholder.com/55?text=S",
-      "team2_logo": "https://via.placeholder.com/55?text=C",
-      "start_time": "2026-04-04T16:45:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/3/36/US_Sassuolo_Calcio_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/3/39/Cagliari_Calcio_logo.svg",
+      "start_time": "2026-04-04T18:45:00Z",
       "duration": 2,
       "venue": "Mapei Stadium, Reggio Emilia, Italy"
     },
@@ -54,9 +57,9 @@
       "league": "Italian Serie A 2026",
       "team1": "Hellas Verona",
       "team2": "Fiorentina",
-      "team1_logo": "https://via.placeholder.com/55?text=HV",
-      "team2_logo": "https://via.placeholder.com/55?text=F",
-      "start_time": "2026-04-04T19:45:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/0/09/Hellas_Verona_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/2/25/ACF_Fiorentina_logo.svg",
+      "start_time": "2026-04-04T21:45:00Z",
       "duration": 2,
       "venue": "Stadio Marcantonio Bentegodi, Verona, Italy"
     },
@@ -64,19 +67,21 @@
       "league": "Italian Serie A 2026",
       "team1": "Lazio",
       "team2": "Parma",
-      "team1_logo": "https://via.placeholder.com/55?text=L",
-      "team2_logo": "https://via.placeholder.com/55?text=P",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/SS_Lazio_Logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Parma_Calcio_1913_Logo.svg",
       "start_time": "2026-04-05T00:30:00Z",
       "duration": 2,
       "venue": "Olimpico, Roma, Italy"
     },
+
+    /* --- German Bundesliga 2026 --- */
     {
       "league": "German Bundesliga 2026",
       "team1": "Bayer Leverkusen",
       "team2": "VfL Wolfsburg",
-      "team1_logo": "https://via.placeholder.com/55?text=BL",
-      "team2_logo": "https://via.placeholder.com/55?text=VW",
-      "start_time": "2026-04-04T17:15:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Bayer_04_Leverkusen_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/VfL_Wolfsburg_logo.svg",
+      "start_time": "2026-04-04T19:15:00Z",
       "duration": 2,
       "venue": "BayArena, Leverkusen, Germany"
     },
@@ -84,9 +89,9 @@
       "league": "German Bundesliga 2026",
       "team1": "Borussia Mönchengladbach",
       "team2": "1. FC Heidenheim 1846",
-      "team1_logo": "https://via.placeholder.com/55?text=BM",
-      "team2_logo": "https://via.placeholder.com/55?text=H",
-      "start_time": "2026-04-04T17:15:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Borussia_Mönchengladbach_logo.svg",
+      "team2_logo": "https://via.placeholder.com/55?text=Heidenheim",
+      "start_time": "2026-04-04T19:15:00Z",
       "duration": 2,
       "venue": "BORUSSIA-PARK, Mönchengladbach, Germany"
     },
@@ -94,9 +99,9 @@
       "league": "German Bundesliga 2026",
       "team1": "Hamburg SV",
       "team2": "FC Augsburg",
-      "team1_logo": "https://via.placeholder.com/55?text=HSV",
-      "team2_logo": "https://via.placeholder.com/55?text=FA",
-      "start_time": "2026-04-04T17:15:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/3/32/Hamburger_SV_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/4/4a/FC_Augsburg_logo.svg",
+      "start_time": "2026-04-04T19:15:00Z",
       "duration": 2,
       "venue": "Volksparkstadion, Hamburg Norderstedt, Germany"
     },
@@ -104,9 +109,9 @@
       "league": "German Bundesliga 2026",
       "team1": "SC Freiburg",
       "team2": "Bayern Munich",
-      "team1_logo": "https://via.placeholder.com/55?text=F",
-      "team2_logo": "https://via.placeholder.com/55?text=BM",
-      "start_time": "2026-04-04T17:15:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/SC_Freiburg_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo.svg",
+      "start_time": "2026-04-04T19:15:00Z",
       "duration": 2,
       "venue": "Europa-Park Stadion, Freiburg im Breisgau, Germany"
     },
@@ -114,9 +119,9 @@
       "league": "German Bundesliga 2026",
       "team1": "TSG Hoffenheim",
       "team2": "Mainz",
-      "team1_logo": "https://via.placeholder.com/55?text=H",
-      "team2_logo": "https://via.placeholder.com/55?text=M",
-      "start_time": "2026-04-04T17:15:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/e/e1/TSG_1899_Hoffenheim_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/d/d2/1._FSV_Mainz_05_logo.svg",
+      "start_time": "2026-04-04T19:15:00Z",
       "duration": 2,
       "venue": "PreZero Arena, Sinsheim, Germany"
     },
@@ -124,9 +129,9 @@
       "league": "German Bundesliga 2026",
       "team1": "Werder Bremen",
       "team2": "RB Leipzig",
-      "team1_logo": "https://via.placeholder.com/55?text=WB",
-      "team2_logo": "https://via.placeholder.com/55?text=RB",
-      "start_time": "2026-04-04T17:15:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/2/2c/SV_Werder_Bremen_logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg",
+      "start_time": "2026-04-04T19:15:00Z",
       "duration": 2,
       "venue": "Weserstadion, Bremen, Germany"
     },
@@ -134,41 +139,11 @@
       "league": "German Bundesliga 2026",
       "team1": "VfB Stuttgart",
       "team2": "Borussia Dortmund",
-      "team1_logo": "https://via.placeholder.com/55?text=VS",
-      "team2_logo": "https://via.placeholder.com/55?text=BD",
-      "start_time": "2026-04-04T20:15:00Z",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/0/05/VfB_Stuttgart_Logo.svg",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/6/67/Borussia_Dortmund_logo.svg",
+      "start_time": "2026-04-04T22:15:00Z",
       "duration": 2,
       "venue": "MHPArena, Stuttgart, Germany"
-    },
-    {
-      "league": "French Ligue 1 2026",
-      "team1": "Strasbourg",
-      "team2": "Nice",
-      "team1_logo": "https://via.placeholder.com/55?text=S",
-      "team2_logo": "https://via.placeholder.com/55?text=N",
-      "start_time": "2026-04-04T20:45:00Z",
-      "duration": 2,
-      "venue": "Stade de la Meinau, Strasbourg, France"
-    },
-    {
-      "league": "French Ligue 1 2026",
-      "team1": "Brest",
-      "team2": "Stade Rennais",
-      "team1_logo": "https://via.placeholder.com/55?text=B",
-      "team2_logo": "https://via.placeholder.com/55?text=SR",
-      "start_time": "2026-04-04T22:45:00Z",
-      "duration": 2,
-      "venue": "Stade Francis-Le Blé, Brest, France"
-    },
-    {
-      "league": "French Ligue 1 2026",
-      "team1": "Lille",
-      "team2": "Lens",
-      "team1_logo": "https://via.placeholder.com/55?text=L",
-      "team2_logo": "https://via.placeholder.com/55?text=LE",
-      "start_time": "2026-04-05T00:50:00Z",
-      "duration": 2,
-      "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille, France"
     }
   ]
 }
