@@ -4,49 +4,51 @@
       "league": "UEFA Champions League",
       "team1": "Real Madrid",
       "team2": "Bayern Munich",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_Munich_logo_%282017%29.svg",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
       "start_time": "2026-04-08T00:45:00+05:45"
     },
     {
       "league": "UEFA Champions League",
       "team1": "Sporting CP",
       "team2": "Arsenal",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sporting_Clube_de_Portugal_%28Logo%29.svg",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
       "start_time": "2026-04-08T00:45:00+05:45"
     },
     {
       "league": "UEFA Champions League",
       "team1": "Barcelona",
       "team2": "Atlético Madrid",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
       "start_time": "2026-04-08T00:45:00+05:45"
     },
     {
       "league": "UEFA Champions League",
       "team1": "Paris Saint-Germain",
       "team2": "Liverpool",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
       "start_time": "2026-04-08T00:45:00+05:45"
     },
     {
       "league": "UEFA Europa League",
       "team1": "Braga",
       "team2": "Real Betis",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sporting_Clube_de_Braga_logo.svg",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/9/9f/Real_Betis_logo.svg",
-      "start_time": "2026-04-07T22:30:00+05:45"
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+      "start_time": "2026-04-08T22:30:00+05:45"
     },
     {
       "league": "English Championship",
       "team1": "Wrexham",
       "team2": "Southampton",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/1/10/Wrexham_AFC_crest.svg",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9841_small.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
       "start_time": "2026-04-08T00:45:00+05:45"
     }
+
+    
   ]
 }
