@@ -1,21 +1,6 @@
 {
   "matches": [
-    {
-      "league": "UEFA Champions League",
-      "team1": "Real Madrid",
-      "team2": "Bayern Munich",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-      "start_time": "2026-04-08T00:45:00+05:45"
-    },
-    {
-      "league": "UEFA Champions League",
-      "team1": "Sporting CP",
-      "team2": "Arsenal",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "start_time": "2026-04-08T00:45:00+05:45"
-    },
+  
     {
       "league": "UEFA Champions League",
       "team1": "Barcelona",
