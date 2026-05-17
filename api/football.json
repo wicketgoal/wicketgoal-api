@@ -8,7 +8,8 @@
       "team1": "Mexico",
       "team2": "South Africa",
       "venue": "Mexico City",
-      "start_time": "2026-06-11T13:00:00-06:00"
+      "start_time": "2026-06-11T13:00:00-06:00",
+      "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
@@ -18,7 +19,8 @@
       "team1": "South Korea",
       "team2": "Czech Republic",
       "venue": "Guadalajara",
-      "start_time": "2026-06-11T20:00:00-06:00"
+      "start_time": "2026-06-11T20:00:00-06:00",
+      "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
@@ -28,7 +30,8 @@
       "team1": "Czech Republic",
       "team2": "South Africa",
       "venue": "Atlanta",
-      "start_time": "2026-06-18T12:00:00-04:00"
+      "start_time": "2026-06-18T12:00:00-04:00",
+      "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
@@ -38,7 +41,8 @@
       "team1": "Mexico",
       "team2": "South Korea",
       "venue": "Guadalajara",
-      "start_time": "2026-06-18T19:00:00-06:00"
+      "start_time": "2026-06-18T19:00:00-06:00",
+      "duration": 2.2
     },
 
     {
@@ -49,7 +53,8 @@
       "team1": "Canada",
       "team2": "Bosnia & Herzegovina",
       "venue": "Toronto",
-      "start_time": "2026-06-12T15:00:00-04:00"
+      "start_time": "2026-06-12T15:00:00-04:00",
+      "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
@@ -59,7 +64,8 @@
       "team1": "Qatar",
       "team2": "Switzerland",
       "venue": "Santa Clara",
-      "start_time": "2026-06-13T12:00:00-07:00"
+      "start_time": "2026-06-13T12:00:00-07:00",
+      "duration": 2.2
     },
 
     {
@@ -70,7 +76,8 @@
       "team1": "Brazil",
       "team2": "Morocco",
       "venue": "New York/New Jersey",
-      "start_time": "2026-06-13T18:00:00-04:00"
+      "start_time": "2026-06-13T18:00:00-04:00",
+      "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
@@ -80,7 +87,8 @@
       "team1": "Haiti",
       "team2": "Scotland",
       "venue": "Boston",
-      "start_time": "2026-06-13T21:00:00-04:00"
+      "start_time": "2026-06-13T21:00:00-04:00",
+      "duration": 2.2
     },
 
     {
@@ -91,7 +99,8 @@
       "team1": "USA",
       "team2": "Paraguay",
       "venue": "Los Angeles",
-      "start_time": "2026-06-12T18:00:00-07:00"
+      "start_time": "2026-06-12T18:00:00-07:00",
+      "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
@@ -101,7 +110,8 @@
       "team1": "Australia",
       "team2": "Turkey",
       "venue": "Vancouver",
-      "start_time": "2026-06-13T21:00:00-07:00"
+      "start_time": "2026-06-13T21:00:00-07:00",
+      "duration": 2.2
     },
 
     {
@@ -111,7 +121,8 @@
       "team1": "2A",
       "team2": "2B",
       "venue": "Los Angeles",
-      "start_time": "2026-06-28T12:00:00-07:00"
+      "start_time": "2026-06-28T12:00:00-07:00",
+      "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
@@ -120,7 +131,8 @@
       "team1": "W74",
       "team2": "W77",
       "venue": "Philadelphia",
-      "start_time": "2026-07-04T17:00:00-04:00"
+      "start_time": "2026-07-04T17:00:00-04:00",
+      "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
@@ -129,7 +141,8 @@
       "team1": "W97",
       "team2": "W98",
       "venue": "Boston",
-      "start_time": "2026-07-09T16:00:00-04:00"
+      "start_time": "2026-07-09T16:00:00-04:00",
+      "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
@@ -138,7 +151,8 @@
       "team1": "W101",
       "team2": "W102",
       "venue": "Atlanta",
-      "start_time": "2026-07-15T15:00:00-04:00"
+      "start_time": "2026-07-15T15:00:00-04:00",
+      "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
@@ -147,7 +161,8 @@
       "team1": "W101",
       "team2": "W102",
       "venue": "New York/New Jersey",
-      "start_time": "2026-07-19T15:00:00-04:00"
+      "start_time": "2026-07-19T15:00:00-04:00",
+      "duration": 2.2
     }
   ]
 }
