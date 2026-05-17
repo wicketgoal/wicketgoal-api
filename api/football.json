@@ -1,25 +1,118 @@
 {
   "matches": [
-      
-    
-  
-       {"league":"Indian Premier League 2026","format":"T20","team1":"Argentina","team2":"Mexico","venue":"Dharamshala","start_time":"2026-05-14T14:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Chennai Super Kings","team2":"Lucknow Super Giants","venue":"Lucknow","start_time":"2026-05-15T14:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Gujarat Titans","team2":"Kolkata Knight Riders","venue":"Kolkata","start_time":"2026-05-16T14:00:00Z","duration":3.5},
+    {
+      "league": "Indian Premier League 2026",
+      "format": "T20",
+      "team1": "Mumbai Indians",
+      "team2": "Punjab Kings",
+      "venue": "Dharamshala",
+      "start_time": "2026-05-14T14:00:00Z",
+      "duration": 3.5
+    },
+    {
+      "league": "Indian Premier League 2026",
+      "format": "T20",
+      "team1": "Chennai Super Kings",
+      "team2": "Lucknow Super Giants",
+      "venue": "Lucknow",
+      "start_time": "2026-05-15T14:00:00Z",
+      "duration": 3.5
+    },
+    {
+      "league": "Indian Premier League 2026",
+      "format": "T20",
+      "team1": "Gujarat Titans",
+      "team2": "Kolkata Knight Riders",
+      "venue": "Kolkata",
+      "start_time": "2026-05-16T14:00:00Z",
+      "duration": 3.5
+    },
 
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Brazil","team2":"Punjab Kings","venue":"Dharamshala","start_time":"2026-05-17T10:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Rajasthan Royals","team2":"Delhi Capitals","venue":"Delhi","start_time":"2026-05-17T14:00:00Z","duration":3.5},
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group A",
+      "team1": "Mexico",
+      "team2": "South Africa",
+      "venue": "Mexico City",
+      "start_time": "2026-06-11T13:00:00-06:00"
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group A",
+      "team1": "South Korea",
+      "team2": "Czech Republic",
+      "venue": "Guadalajara",
+      "start_time": "2026-06-11T20:00:00-06:00"
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group A",
+      "team1": "Czech Republic",
+      "team2": "South Africa",
+      "venue": "Atlanta",
+      "start_time": "2026-06-18T12:00:00-04:00"
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group A",
+      "team1": "Mexico",
+      "team2": "South Korea",
+      "venue": "Guadalajara",
+      "start_time": "2026-06-18T19:00:00-06:00"
+    },
 
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Sunrisers Hyderabad","team2":"Chennai Super Kings","venue":"Chennai","start_time":"2026-05-18T14:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Lucknow Super Giants","team2":"Rajasthan Royals","venue":"Jaipur","start_time":"2026-05-19T14:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Mumbai Indians","team2":"Kolkata Knight Riders","venue":"Kolkata","start_time":"2026-05-20T14:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Gujarat Titans","team2":"Chennai Super Kings","venue":"Chennai","start_time":"2026-05-21T14:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Royal Challengers Bengaluru","team2":"Sunrisers Hyderabad","venue":"Hyderabad","start_time":"2026-05-22T14:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Punjab Kings","team2":"Lucknow Super Giants","venue":"Lucknow","start_time":"2026-05-23T14:00:00Z","duration":3.5},
-
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Rajasthan Royals","team2":"Mumbai Indians","venue":"Mumbai","start_time":"2026-05-24T10:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Delhi Capitals","team2":"Kolkata Knight Riders","venue":"Kolkata","start_time":"2026-05-24T14:00:00Z","duration":3.5}
-  
-  
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Round of 32",
+      "team1": "2A",
+      "team2": "2B",
+      "venue": "Los Angeles",
+      "start_time": "2026-06-28T12:00:00-07:00"
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Round of 16",
+      "team1": "W74",
+      "team2": "W77",
+      "venue": "Philadelphia",
+      "start_time": "2026-07-04T17:00:00-04:00"
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Quarter Final",
+      "team1": "W97",
+      "team2": "W98",
+      "venue": "Boston",
+      "start_time": "2026-07-09T16:00:00-04:00"
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Semi Final",
+      "team1": "W101",
+      "team2": "W102",
+      "venue": "Atlanta",
+      "start_time": "2026-07-15T15:00:00-04:00"
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Final",
+      "team1": "W101",
+      "team2": "W102",
+      "venue": "New York/New Jersey",
+      "start_time": "2026-07-19T15:00:00-04:00"
+    }
   ]
 }
