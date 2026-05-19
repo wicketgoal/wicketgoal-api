@@ -4,7 +4,7 @@
     {
       "round": "Matchday 2",
       "date": "2026-06-12",
-      "time": "15:00 UTC-4",
+      "start_time": "2026-06-12T15:00:00-04:00",
       "team1": {
         "name": "Canada",
         "flag": "https://flagcdn.com/w40/ca.png"
@@ -13,14 +13,15 @@
         "name": "Bosnia & Herzegovina",
         "flag": "https://flagcdn.com/w40/ba.png"
       },
-       "group": "Group B",
+      "group": "Group B",
       "ground": "Toronto",
       "duration": 2.2
     },
+
     {
       "round": "Matchday 3",
       "date": "2026-06-13",
-      "time": "12:00 UTC-7",
+      "start_time": "2026-06-13T12:00:00-07:00",
       "team1": {
         "name": "Qatar",
         "flag": "https://flagcdn.com/w40/qa.png"
@@ -33,10 +34,11 @@
       "ground": "San Francisco Bay Area (Santa Clara)",
       "duration": 2.2
     },
+
     {
       "round": "Matchday 8",
       "date": "2026-06-18",
-      "time": "12:00 UTC-7",
+      "start_time": "2026-06-18T12:00:00-07:00",
       "team1": {
         "name": "Switzerland",
         "flag": "https://flagcdn.com/w40/ch.png"
@@ -49,10 +51,11 @@
       "ground": "Los Angeles (Inglewood)",
       "duration": 2.2
     },
+
     {
       "round": "Matchday 8",
       "date": "2026-06-18",
-      "time": "15:00 UTC-7",
+      "start_time": "2026-06-18T15:00:00-07:00",
       "team1": {
         "name": "Canada",
         "flag": "https://flagcdn.com/w40/ca.png"
@@ -65,10 +68,11 @@
       "ground": "Vancouver",
       "duration": 2.2
     },
+
     {
       "round": "Matchday 14",
       "date": "2026-06-24",
-      "time": "12:00 UTC-7",
+      "start_time": "2026-06-24T12:00:00-07:00",
       "team1": {
         "name": "Switzerland",
         "flag": "https://flagcdn.com/w40/ch.png"
@@ -81,10 +85,11 @@
       "ground": "Vancouver",
       "duration": 2.2
     },
+
     {
       "round": "Matchday 14",
       "date": "2026-06-24",
-      "time": "12:00 UTC-7",
+      "start_time": "2026-06-24T12:00:00-07:00",
       "team1": {
         "name": "Bosnia & Herzegovina",
         "flag": "https://flagcdn.com/w40/ba.png"
@@ -97,10 +102,11 @@
       "ground": "Seattle",
       "duration": 2.2
     },
+
     {
       "round": "Matchday 3",
       "date": "2026-06-13",
-      "time": "18:00 UTC-4",
+      "start_time": "2026-06-13T18:00:00-04:00",
       "team1": {
         "name": "Brazil",
         "flag": "https://flagcdn.com/w40/br.png"
