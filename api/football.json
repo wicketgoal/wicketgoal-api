@@ -1,246 +1,547 @@
 {
   "matches": [
-
-    /* ================= GROUP J ================= */
-
+    
+    /* ================= GROUP B ================= */
     {
       "league": "FIFA World Cup 2026",
       "format": "Football",
       "round": "Group Stage",
-      "group": "Group J",
-      "team1": "Argentina",
-      "team1_flag": "https://flagcdn.com/w40/ar.png",
-      "team2": "Algeria",
-      "team2_flag": "https://flagcdn.com/w40/dz.png",
-      "venue": "Kansas City",
-      "start_time": "2026-06-16T20:00:00-05:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group J",
-      "team1": "Austria",
-      "team1_flag": "https://flagcdn.com/w40/at.png",
-      "team2": "Jordan",
-      "team2_flag": "https://flagcdn.com/w40/jo.png",
-      "venue": "San Francisco Bay Area (Santa Clara)",
-      "start_time": "2026-06-16T21:00:00-07:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group J",
-      "team1": "Argentina",
-      "team1_flag": "https://flagcdn.com/w40/ar.png",
-      "team2": "Austria",
-      "team2_flag": "https://flagcdn.com/w40/at.png",
-      "venue": "Dallas (Arlington)",
-      "start_time": "2026-06-22T12:00:00-05:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group J",
-      "team1": "Jordan",
-      "team1_flag": "https://flagcdn.com/w40/jo.png",
-      "team2": "Algeria",
-      "team2_flag": "https://flagcdn.com/w40/dz.png",
-      "venue": "San Francisco Bay Area (Santa Clara)",
-      "start_time": "2026-06-22T20:00:00-07:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group J",
-      "team1": "Algeria",
-      "team1_flag": "https://flagcdn.com/w40/dz.png",
-      "team2": "Austria",
-      "team2_flag": "https://flagcdn.com/w40/at.png",
-      "venue": "Kansas City",
-      "start_time": "2026-06-27T21:00:00-05:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group J",
-      "team1": "Jordan",
-      "team1_flag": "https://flagcdn.com/w40/jo.png",
-      "team2": "Argentina",
-      "team2_flag": "https://flagcdn.com/w40/ar.png",
-      "venue": "Dallas (Arlington)",
-      "start_time": "2026-06-27T21:00:00-05:00",
-      "duration": 2.2
-    },
-
-    /* ================= GROUP K ================= */
-
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group K",
-      "team1": "Portugal",
-      "team1_flag": "https://flagcdn.com/w40/pt.png",
-      "team2": "DR Congo",
-      "team2_flag": "https://flagcdn.com/w40/cd.png",
-      "venue": "Houston",
-      "start_time": "2026-06-17T12:00:00-05:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group K",
-      "team1": "Uzbekistan",
-      "team1_flag": "https://flagcdn.com/w40/uz.png",
-      "team2": "Colombia",
-      "team2_flag": "https://flagcdn.com/w40/co.png",
-      "venue": "Mexico City",
-      "start_time": "2026-06-17T20:00:00-06:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group K",
-      "team1": "Portugal",
-      "team1_flag": "https://flagcdn.com/w40/pt.png",
-      "team2": "Uzbekistan",
-      "team2_flag": "https://flagcdn.com/w40/uz.png",
-      "venue": "Houston",
-      "start_time": "2026-06-23T12:00:00-05:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group K",
-      "team1": "Colombia",
-      "team1_flag": "https://flagcdn.com/w40/co.png",
-      "team2": "DR Congo",
-      "team2_flag": "https://flagcdn.com/w40/cd.png",
-      "venue": "Guadalajara (Zapopan)",
-      "start_time": "2026-06-23T20:00:00-06:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group K",
-      "team1": "Colombia",
-      "team1_flag": "https://flagcdn.com/w40/co.png",
-      "team2": "Portugal",
-      "team2_flag": "https://flagcdn.com/w40/pt.png",
-      "venue": "Miami (Miami Gardens)",
-      "start_time": "2026-06-27T19:30:00-04:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group K",
-      "team1": "DR Congo",
-      "team1_flag": "https://flagcdn.com/w40/cd.png",
-      "team2": "Uzbekistan",
-      "team2_flag": "https://flagcdn.com/w40/uz.png",
-      "venue": "Atlanta",
-      "start_time": "2026-06-27T19:30:00-04:00",
-      "duration": 2.2
-    },
-
-    /* ================= GROUP L ================= */
-
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group L",
-      "team1": "England",
-      "team1_flag": "https://flagcdn.com/w40/gb-eng.png",
-      "team2": "Croatia",
-      "team2_flag": "https://flagcdn.com/w40/hr.png",
-      "venue": "Dallas (Arlington)",
-      "start_time": "2026-06-17T15:00:00-05:00",
-      "duration": 2.2
-    },
-    {
-      "league": "FIFA World Cup 2026",
-      "format": "Football",
-      "round": "Group Stage",
-      "group": "Group L",
-      "team1": "Ghana",
-      "team1_flag": "https://flagcdn.com/w40/gh.png",
-      "team2": "Panama",
-      "team2_flag": "https://flagcdn.com/w40/pa.png",
+      "group": "Group B",
+      "team1": "Canada",
+      "team2": "Bosnia & Herzegovina",
       "venue": "Toronto",
-      "start_time": "2026-06-17T19:00:00-04:00",
+      "start_time": "2026-06-12T15:00:00-04:00",
       "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
       "format": "Football",
       "round": "Group Stage",
-      "group": "Group L",
-      "team1": "England",
-      "team1_flag": "https://flagcdn.com/w40/gb-eng.png",
-      "team2": "Ghana",
-      "team2_flag": "https://flagcdn.com/w40/gh.png",
-      "venue": "Boston (Foxborough)",
-      "start_time": "2026-06-23T16:00:00-04:00",
+      "group": "Group B",
+      "team1": "Qatar",
+      "team2": "Switzerland",
+      "venue": "San Francisco Bay Area (Santa Clara)",
+      "start_time": "2026-06-13T12:00:00-07:00",
       "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
       "format": "Football",
       "round": "Group Stage",
-      "group": "Group L",
-      "team1": "Panama",
-      "team1_flag": "https://flagcdn.com/w40/pa.png",
-      "team2": "Croatia",
-      "team2_flag": "https://flagcdn.com/w40/hr.png",
-      "venue": "Toronto",
-      "start_time": "2026-06-23T19:00:00-04:00",
+      "group": "Group B",
+      "team1": "Switzerland",
+      "team2": "Bosnia & Herzegovina",
+      "venue": "Los Angeles (Inglewood)",
+      "start_time": "2026-06-18T12:00:00-07:00",
       "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
       "format": "Football",
       "round": "Group Stage",
-      "group": "Group L",
-      "team1": "Panama",
-      "team1_flag": "https://flagcdn.com/w40/pa.png",
-      "team2": "England",
-      "team2_flag": "https://flagcdn.com/w40/gb-eng.png",
+      "group": "Group B",
+      "team1": "Canada",
+      "team2": "Qatar",
+      "venue": "Vancouver",
+      "start_time": "2026-06-18T15:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group B",
+      "team1": "Switzerland",
+      "team2": "Canada",
+      "venue": "Vancouver",
+      "start_time": "2026-06-24T12:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group B",
+      "team1": "Bosnia & Herzegovina",
+      "team2": "Qatar",
+      "venue": "Seattle",
+      "start_time": "2026-06-24T12:00:00-07:00",
+      "duration": 2.2
+    },
+
+    /* ================= GROUP C ================= */
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group C",
+      "team1": "Brazil",
+      "team2": "Morocco",
       "venue": "New York/New Jersey (East Rutherford)",
-      "start_time": "2026-06-27T17:00:00-04:00",
+      "start_time": "2026-06-13T18:00:00-04:00",
       "duration": 2.2
     },
     {
       "league": "FIFA World Cup 2026",
       "format": "Football",
       "round": "Group Stage",
-      "group": "Group L",
-      "team1": "Croatia",
-      "team1_flag": "https://flagcdn.com/w40/hr.png",
-      "team2": "Ghana",
-      "team2_flag": "https://flagcdn.com/w40/gh.png",
+      "group": "Group C",
+      "team1": "Haiti",
+      "team2": "Scotland",
+      "venue": "Boston (Foxborough)",
+      "start_time": "2026-06-13T21:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group C",
+      "team1": "Scotland",
+      "team2": "Morocco",
+      "venue": "Boston (Foxborough)",
+      "start_time": "2026-06-19T18:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group C",
+      "team1": "Brazil",
+      "team2": "Haiti",
       "venue": "Philadelphia",
-      "start_time": "2026-06-27T17:00:00-04:00",
+      "start_time": "2026-06-19T20:30:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group C",
+      "team1": "Scotland",
+      "team2": "Brazil",
+      "venue": "Miami (Miami Gardens)",
+      "start_time": "2026-06-24T18:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group C",
+      "team1": "Morocco",
+      "team2": "Haiti",
+      "venue": "Atlanta",
+      "start_time": "2026-06-24T18:00:00-04:00",
+      "duration": 2.2
+    },
+
+    /* ================= GROUP D ================= */
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group D",
+      "team1": "USA",
+      "team2": "Paraguay",
+      "venue": "Los Angeles (Inglewood)",
+      "start_time": "2026-06-12T18:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group D",
+      "team1": "Australia",
+      "team2": "Turkey",
+      "venue": "Vancouver",
+      "start_time": "2026-06-13T21:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group D",
+      "team1": "USA",
+      "team2": "Australia",
+      "venue": "Seattle",
+      "start_time": "2026-06-19T12:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group D",
+      "team1": "Turkey",
+      "team2": "Paraguay",
+      "venue": "San Francisco Bay Area (Santa Clara)",
+      "start_time": "2026-06-19T20:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group D",
+      "team1": "Turkey",
+      "team2": "USA",
+      "venue": "Los Angeles (Inglewood)",
+      "start_time": "2026-06-25T19:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group D",
+      "team1": "Paraguay",
+      "team2": "Australia",
+      "venue": "San Francisco Bay Area (Santa Clara)",
+      "start_time": "2026-06-25T19:00:00-07:00",
+      "duration": 2.2
+    },
+
+    /* ================= GROUP E ================= */
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group E",
+      "team1": "Germany",
+      "team2": "Curaçao",
+      "venue": "Houston",
+      "start_time": "2026-06-14T12:00:00-05:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group E",
+      "team1": "Ivory Coast",
+      "team2": "Ecuador",
+      "venue": "Philadelphia",
+      "start_time": "2026-06-14T19:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group E",
+      "team1": "Germany",
+      "team2": "Ivory Coast",
+      "venue": "Toronto",
+      "start_time": "2026-06-20T16:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group E",
+      "team1": "Ecuador",
+      "team2": "Curaçao",
+      "venue": "Kansas City",
+      "start_time": "2026-06-20T19:00:00-05:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group E",
+      "team1": "Curaçao",
+      "team2": "Ivory Coast",
+      "venue": "Philadelphia",
+      "start_time": "2026-06-25T16:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group E",
+      "team1": "Ecuador",
+      "team2": "Germany",
+      "venue": "New York/New Jersey (East Rutherford)",
+      "start_time": "2026-06-25T16:00:00-04:00",
+      "duration": 2.2
+    },
+
+    /* ================= GROUP F ================= */
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group F",
+      "team1": "Netherlands",
+      "team2": "Japan",
+      "venue": "Dallas (Arlington)",
+      "start_time": "2026-06-14T15:00:00-05:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group F",
+      "team1": "Sweden",
+      "team2": "Tunisia",
+      "venue": "Monterrey (Guadalupe)",
+      "start_time": "2026-06-14T20:00:00-06:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group F",
+      "team1": "Netherlands",
+      "team2": "Sweden",
+      "venue": "Houston",
+      "start_time": "2026-06-20T12:00:00-05:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group F",
+      "team1": "Tunisia",
+      "team2": "Japan",
+      "venue": "Monterrey (Guadalupe)",
+      "start_time": "2026-06-20T22:00:00-06:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group F",
+      "team1": "Japan",
+      "team2": "Sweden",
+      "venue": "Dallas (Arlington)",
+      "start_time": "2026-06-25T18:00:00-05:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group F",
+      "team1": "Tunisia",
+      "team2": "Netherlands",
+      "venue": "Kansas City",
+      "start_time": "2026-06-25T18:00:00-05:00",
+      "duration": 2.2
+    },
+
+    /* ================= GROUP G ================= */
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group G",
+      "team1": "Belgium",
+      "team2": "Egypt",
+      "venue": "Seattle",
+      "start_time": "2026-06-15T12:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group G",
+      "team1": "Iran",
+      "team2": "New Zealand",
+      "venue": "Los Angeles (Inglewood)",
+      "start_time": "2026-06-15T18:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group G",
+      "team1": "Belgium",
+      "team2": "Iran",
+      "venue": "Los Angeles (Inglewood)",
+      "start_time": "2026-06-21T12:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group G",
+      "team1": "New Zealand",
+      "team2": "Egypt",
+      "venue": "Vancouver",
+      "start_time": "2026-06-21T18:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group G",
+      "team1": "Egypt",
+      "team2": "Iran",
+      "venue": "Seattle",
+      "start_time": "2026-06-26T20:00:00-07:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group G",
+      "team1": "New Zealand",
+      "team2": "Belgium",
+      "venue": "Vancouver",
+      "start_time": "2026-06-26T20:00:00-07:00",
+      "duration": 2.2
+    },
+
+    /* ================= GROUP H ================= */
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group H",
+      "team1": "Spain",
+      "team2": "Cape Verde",
+      "venue": "Atlanta",
+      "start_time": "2026-06-15T12:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group H",
+      "team1": "Saudi Arabia",
+      "team2": "Uruguay",
+      "venue": "Miami (Miami Gardens)",
+      "start_time": "2026-06-15T18:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group H",
+      "team1": "Spain",
+      "team2": "Saudi Arabia",
+      "venue": "Atlanta",
+      "start_time": "2026-06-21T12:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group H",
+      "team1": "Uruguay",
+      "team2": "Cape Verde",
+      "venue": "Miami (Miami Gardens)",
+      "start_time": "2026-06-21T18:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group H",
+      "team1": "Cape Verde",
+      "team2": "Saudi Arabia",
+      "venue": "Houston",
+      "start_time": "2026-06-26T19:00:00-05:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group H",
+      "team1": "Uruguay",
+      "team2": "Spain",
+      "venue": "Guadalajara (Zapopan)",
+      "start_time": "2026-06-26T18:00:00-06:00",
+      "duration": 2.2
+    },
+
+    /* ================= GROUP I ================= */
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group I",
+      "team1": "France",
+      "team2": "Senegal",
+      "venue": "New York/New Jersey (East Rutherford)",
+      "start_time": "2026-06-16T15:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group I",
+      "team1": "Iraq",
+      "team2": "Norway",
+      "venue": "Boston (Foxborough)",
+      "start_time": "2026-06-16T18:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group I",
+      "team1": "France",
+      "team2": "Iraq",
+      "venue": "Philadelphia",
+      "start_time": "2026-06-22T17:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group I",
+      "team1": "Norway",
+      "team2": "Senegal",
+      "venue": "New York/New Jersey (East Rutherford)",
+      "start_time": "2026-06-22T20:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group I",
+      "team1": "Norway",
+      "team2": "France",
+      "venue": "Boston (Foxborough)",
+      "start_time": "2026-06-26T15:00:00-04:00",
+      "duration": 2.2
+    },
+    {
+      "league": "FIFA World Cup 2026",
+      "format": "Football",
+      "round": "Group Stage",
+      "group": "Group I",
+      "team1": "Senegal",
+      "team2": "Iraq",
+      "venue": "Toronto",
+      "start_time": "2026-06-26T15:00:00-04:00",
       "duration": 2.2
     }
 
