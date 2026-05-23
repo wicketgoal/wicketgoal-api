@@ -204,8 +204,211 @@
       "group": "Group B",
       "ground": "Seattle",
       "duration": 2.2
-    }
+    },
     
+  {
+      "round": "Matchday 3",
+      "date": "2026-06-13",
+      "start_time": "2026-06-13T18:00:00-04:00",
+      "team1": {
+        "name": "Brazil",
+        "flag": "https://flagcdn.com/w40/br.png"
+      },
+      "team2": {
+        "name": "Morocco",
+        "flag": "https://flagcdn.com/w40/ma.png"
+      },
+      "group": "Group C",
+      "ground": "New York/New Jersey (East Rutherford)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 3",
+      "date": "2026-06-13",
+      "start_time": "2026-06-13T21:00:00-04:00",
+      "team1": {
+        "name": "Haiti",
+        "flag": "https://flagcdn.com/w40/ht.png"
+      },
+      "team2": {
+        "name": "Scotland",
+        "flag": "https://flagcdn.com/w40/gb-sct.png"
+      },
+      "group": "Group C",
+      "ground": "Boston (Foxborough)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 9",
+      "date": "2026-06-19",
+      "start_time": "2026-06-19T18:00:00-04:00",
+      "team1": {
+        "name": "Scotland",
+        "flag": "https://flagcdn.com/w40/gb-sct.png"
+      },
+      "team2": {
+        "name": "Morocco",
+        "flag": "https://flagcdn.com/w40/ma.png"
+      },
+      "group": "Group C",
+      "ground": "Boston (Foxborough)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 9",
+      "date": "2026-06-19",
+      "start_time": "2026-06-19T20:30:00-04:00",
+      "team1": {
+        "name": "Brazil",
+        "flag": "https://flagcdn.com/w40/br.png"
+      },
+      "team2": {
+        "name": "Haiti",
+        "flag": "https://flagcdn.com/w40/ht.png"
+      },
+      "group": "Group C",
+      "ground": "Philadelphia",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 14",
+      "date": "2026-06-24",
+      "start_time": "2026-06-24T18:00:00-04:00",
+      "team1": {
+        "name": "Scotland",
+        "flag": "https://flagcdn.com/w40/gb-sct.png"
+      },
+      "team2": {
+        "name": "Brazil",
+        "flag": "https://flagcdn.com/w40/br.png"
+      },
+      "group": "Group C",
+      "ground": "Miami (Miami Gardens)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 14",
+      "date": "2026-06-24",
+      "start_time": "2026-06-24T18:00:00-04:00",
+      "team1": {
+        "name": "Morocco",
+        "flag": "https://flagcdn.com/w40/ma.png"
+      },
+      "team2": {
+        "name": "Haiti",
+        "flag": "https://flagcdn.com/w40/ht.png"
+      },
+      "group": "Group C",
+      "ground": "Atlanta",
+      "duration": 2.2
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2026-06-12",
+      "start_time": "2026-06-12T18:00:00-07:00",
+      "team1": {
+        "name": "USA",
+        "flag": "https://flagcdn.com/w40/us.png"
+      },
+      "team2": {
+        "name": "Paraguay",
+        "flag": "https://flagcdn.com/w40/py.png"
+      },
+      "group": "Group D",
+      "ground": "Los Angeles (Inglewood)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 3",
+      "date": "2026-06-13",
+      "start_time": "2026-06-13T21:00:00-07:00",
+      "team1": {
+        "name": "Australia",
+        "flag": "https://flagcdn.com/w40/au.png"
+      },
+      "team2": {
+        "name": "Turkey",
+        "flag": "https://flagcdn.com/w40/tr.png"
+      },
+      "group": "Group D",
+      "ground": "Vancouver",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 9",
+      "date": "2026-06-19",
+      "start_time": "2026-06-19T12:00:00-07:00",
+      "team1": {
+        "name": "USA",
+        "flag": "https://flagcdn.com/w40/us.png"
+      },
+      "team2": {
+        "name": "Australia",
+        "flag": "https://flagcdn.com/w40/au.png"
+      },
+      "group": "Group D",
+      "ground": "Seattle",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 9",
+      "date": "2026-06-19",
+      "start_time": "2026-06-19T20:00:00-07:00",
+      "team1": {
+        "name": "Turkey",
+        "flag": "https://flagcdn.com/w40/tr.png"
+      },
+      "team2": {
+        "name": "Paraguay",
+        "flag": "https://flagcdn.com/w40/py.png"
+      },
+      "group": "Group D",
+      "ground": "San Francisco Bay Area (Santa Clara)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 15",
+      "date": "2026-06-25",
+      "start_time": "2026-06-25T19:00:00-07:00",
+      "team1": {
+        "name": "Turkey",
+        "flag": "https://flagcdn.com/w40/tr.png"
+      },
+      "team2": {
+        "name": "USA",
+        "flag": "https://flagcdn.com/w40/us.png"
+      },
+      "group": "Group D",
+      "ground": "Los Angeles (Inglewood)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 15",
+      "date": "2026-06-25",
+      "start_time": "2026-06-25T19:00:00-07:00",
+      "team1": {
+        "name": "Paraguay",
+        "flag": "https://flagcdn.com/w40/py.png"
+      },
+      "team2": {
+        "name": "Australia",
+        "flag": "https://flagcdn.com/w40/au.png"
+      },
+      "group": "Group D",
+      "ground": "San Francisco Bay Area (Santa Clara)",
+      "duration": 2.2
+    }
+
     
   ]
 }
