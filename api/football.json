@@ -101,22 +101,112 @@
       "group": "Group B",
       "ground": "Seattle",
       "duration": 2.2
+    }
+  ]
+}
+
+{
+  "group": "Group A",
+  "matches": [
+    {
+      "round": "Matchday 1",
+      "date": "2026-06-11",
+      "start_time": "2026-06-11T13:00:00-06:00",
+      "team1": {
+        "name": "Mexico",
+        "flag": "https://flagcdn.com/w40/mx.png"
+      },
+      "team2": {
+        "name": "South Africa",
+        "flag": "https://flagcdn.com/w40/za.png"
+      },
+      "group": "Group A",
+      "ground": "Mexico City",
+      "duration": 2.2
     },
 
     {
-      "round": "Matchday 3",
-      "date": "2026-06-13",
-      "start_time": "2026-06-13T18:00:00-04:00",
+      "round": "Matchday 1",
+      "date": "2026-06-11",
+      "start_time": "2026-06-11T20:00:00-06:00",
       "team1": {
-        "name": "Brazil",
-        "flag": "https://flagcdn.com/w40/br.png"
+        "name": "South Korea",
+        "flag": "https://flagcdn.com/w40/kr.png"
       },
       "team2": {
-        "name": "Morocco",
-        "flag": "https://flagcdn.com/w40/ma.png"
+        "name": "Czech Republic",
+        "flag": "https://flagcdn.com/w40/cz.png"
       },
-      "group": "Group B",
-      "ground": "New York/New Jersey (East Rutherford)",
+      "group": "Group A",
+      "ground": "Guadalajara (Zapopan)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 8",
+      "date": "2026-06-18",
+      "start_time": "2026-06-18T12:00:00-04:00",
+      "team1": {
+        "name": "Czech Republic",
+        "flag": "https://flagcdn.com/w40/cz.png"
+      },
+      "team2": {
+        "name": "South Africa",
+        "flag": "https://flagcdn.com/w40/za.png"
+      },
+      "group": "Group A",
+      "ground": "Atlanta",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 8",
+      "date": "2026-06-18",
+      "start_time": "2026-06-18T19:00:00-06:00",
+      "team1": {
+        "name": "Mexico",
+        "flag": "https://flagcdn.com/w40/mx.png"
+      },
+      "team2": {
+        "name": "South Korea",
+        "flag": "https://flagcdn.com/w40/kr.png"
+      },
+      "group": "Group A",
+      "ground": "Guadalajara (Zapopan)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 14",
+      "date": "2026-06-24",
+      "start_time": "2026-06-24T19:00:00-06:00",
+      "team1": {
+        "name": "Czech Republic",
+        "flag": "https://flagcdn.com/w40/cz.png"
+      },
+      "team2": {
+        "name": "Mexico",
+        "flag": "https://flagcdn.com/w40/mx.png"
+      },
+      "group": "Group A",
+      "ground": "Mexico City",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 14",
+      "date": "2026-06-24",
+      "start_time": "2026-06-24T19:00:00-06:00",
+      "team1": {
+        "name": "South Africa",
+        "flag": "https://flagcdn.com/w40/za.png"
+      },
+      "team2": {
+        "name": "South Korea",
+        "flag": "https://flagcdn.com/w40/kr.png"
+      },
+      "group": "Group A",
+      "ground": "Monterrey (Guadalupe)",
       "duration": 2.2
     }
   ]
