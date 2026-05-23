@@ -1104,7 +1104,109 @@
           "group": "Group K",
           "ground": "Atlanta",
           "duration": 2.2
-        }
+        },
+
+    {
+      "round": "Matchday 7",
+      "date": "2026-06-17",
+      "start_time": "2026-06-17T15:00:00-05:00",
+      "team1": {
+        "name": "England",
+        "flag": "https://flagcdn.com/w40/gb-eng.png"
+      },
+      "team2": {
+        "name": "Croatia",
+        "flag": "https://flagcdn.com/w40/hr.png"
+      },
+      "group": "Group L",
+      "ground": "Dallas (Arlington)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 7",
+      "date": "2026-06-17",
+      "start_time": "2026-06-17T19:00:00-04:00",
+      "team1": {
+        "name": "Ghana",
+        "flag": "https://flagcdn.com/w40/gh.png"
+      },
+      "team2": {
+        "name": "Panama",
+        "flag": "https://flagcdn.com/w40/pa.png"
+      },
+      "group": "Group L",
+      "ground": "Toronto",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 13",
+      "date": "2026-06-23",
+      "start_time": "2026-06-23T16:00:00-04:00",
+      "team1": {
+        "name": "England",
+        "flag": "https://flagcdn.com/w40/gb-eng.png"
+      },
+      "team2": {
+        "name": "Ghana",
+        "flag": "https://flagcdn.com/w40/gh.png"
+      },
+      "group": "Group L",
+      "ground": "Boston (Foxborough)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 13",
+      "date": "2026-06-23",
+      "start_time": "2026-06-23T19:00:00-04:00",
+      "team1": {
+        "name": "Panama",
+        "flag": "https://flagcdn.com/w40/pa.png"
+      },
+      "team2": {
+        "name": "Croatia",
+        "flag": "https://flagcdn.com/w40/hr.png"
+      },
+      "group": "Group L",
+      "ground": "Toronto",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 17",
+      "date": "2026-06-27",
+      "start_time": "2026-06-27T17:00:00-04:00",
+      "team1": {
+        "name": "Panama",
+        "flag": "https://flagcdn.com/w40/pa.png"
+      },
+      "team2": {
+        "name": "England",
+        "flag": "https://flagcdn.com/w40/gb-eng.png"
+      },
+      "group": "Group L",
+      "ground": "New York/New Jersey (East Rutherford)",
+      "duration": 2.2
+    },
+
+    {
+      "round": "Matchday 17",
+      "date": "2026-06-27",
+      "start_time": "2026-06-27T17:00:00-04:00",
+      "team1": {
+        "name": "Croatia",
+        "flag": "https://flagcdn.com/w40/hr.png"
+      },
+      "team2": {
+        "name": "Ghana",
+        "flag": "https://flagcdn.com/w40/gh.png"
+      },
+      "group": "Group L",
+      "ground": "Philadelphia",
+      "duration": 2.2
+    }
     
   ]
 }
