@@ -101,13 +101,8 @@
       "group": "Group B",
       "ground": "Seattle",
       "duration": 2.2
-    }
-  ]
-}
-
-{
-  "group": "Group A",
-  "matches": [
+    },
+    
     {
       "round": "Matchday 1",
       "date": "2026-06-11",
