@@ -1,5 +1,26 @@
+{
+  "group": "Group B",
+  "matches": [
+
   
-[
+    
+    {
+      "round": "Matchday 1",
+      "date": "2026-06-11",
+      "start_time": "2026-06-11T13:00:00-06:00",
+      "team1": {
+        "name": "Mexico",
+        "flag": "https://flagcdn.com/w40/mx.png"
+      },
+      "team2": {
+        "name": "South Africa",
+        "flag": "https://flagcdn.com/w40/za.png"
+      },
+      "group": "Group A",
+      "ground": "Mexico City",
+      "duration": 2.2
+    },
+
   {
     "round": "Round of 32",
     "date": "2026-06-28",
