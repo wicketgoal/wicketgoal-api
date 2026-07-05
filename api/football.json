@@ -1,259 +1,130 @@
-  
 [
   {
-    "round": "Round of 32",
-    "date": "2026-06-28",
-    "start_time": "2026-06-28T15:00:00-04:00",
+    "round": "Round of 16",
+    "date": "2026-07-04",
+    "start_time": "2026-07-04T13:00:00-05:00",
     "team1": {
-      "name": "South Africa",
-      "flag": "https://flagcdn.com/w40/za.png"
-    },
-    "team2": {
       "name": "Canada",
       "flag": "https://flagcdn.com/w40/ca.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 32",
-    "date": "2026-06-29",
-    "start_time": "2026-06-29T13:00:00-04:00",
-    "team1": {
-      "name": "Brazil",
-      "flag": "https://flagcdn.com/w40/br.png"
-    },
-    "team2": {
-      "name": "Japan",
-      "flag": "https://flagcdn.com/w40/jp.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 32",
-    "date": "2026-06-29",
-    "start_time": "2026-06-29T16:30:00-04:00",
-    "team1": {
-      "name": "Germany",
-      "flag": "https://flagcdn.com/w40/de.png"
-    },
-    "team2": {
-      "name": "Paraguay",
-      "flag": "https://flagcdn.com/w40/py.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 32",
-    "date": "2026-06-29",
-    "start_time": "2026-06-29T21:00:00-04:00",
-    "team1": {
-      "name": "Netherlands",
-      "flag": "https://flagcdn.com/w40/nl.png"
     },
     "team2": {
       "name": "Morocco",
       "flag": "https://flagcdn.com/w40/ma.png"
     },
-    "group": "Round of 32",
-    "ground": "TBD",
+    "group": "Round of 16",
+    "ground": "Houston",
     "duration": 2.2
   },
   {
-    "round": "Round of 32",
-    "date": "2026-06-30",
-    "start_time": "2026-06-30T13:00:00-04:00",
+    "round": "Round of 16",
+    "date": "2026-07-04",
+    "start_time": "2026-07-04T17:00:00-05:00",
     "team1": {
-      "name": "Ivory Coast",
-      "flag": "https://flagcdn.com/w40/ci.png"
+      "name": "Paraguay",
+      "flag": "https://flagcdn.com/w40/py.png"
+    },
+    "team2": {
+      "name": "France",
+      "flag": "https://flagcdn.com/w40/fr.png"
+    },
+    "group": "Round of 16",
+    "ground": "Philadelphia",
+    "duration": 2.2
+  },
+  {
+    "round": "Round of 16",
+    "date": "2026-07-05",
+    "start_time": "2026-07-05T13:00:00-05:00",
+    "team1": {
+      "name": "Brazil",
+      "flag": "https://flagcdn.com/w40/br.png"
     },
     "team2": {
       "name": "Norway",
       "flag": "https://flagcdn.com/w40/no.png"
     },
-    "group": "Round of 32",
-    "ground": "TBD",
+    "group": "Round of 16",
+    "ground": "Dallas",
     "duration": 2.2
   },
   {
-    "round": "Round of 32",
-    "date": "2026-06-30",
-    "start_time": "2026-06-30T17:00:00-04:00",
-    "team1": {
-      "name": "France",
-      "flag": "https://flagcdn.com/w40/fr.png"
-    },
-    "team2": {
-      "name": "Sweden",
-      "flag": "https://flagcdn.com/w40/se.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 32",
-    "date": "2026-06-30",
-    "start_time": "2026-06-30T21:00:00-04:00",
+    "round": "Round of 16",
+    "date": "2026-07-05",
+    "start_time": "2026-07-05T17:00:00-05:00",
     "team1": {
       "name": "Mexico",
       "flag": "https://flagcdn.com/w40/mx.png"
     },
     "team2": {
-      "name": "Ecuador",
-      "flag": "https://flagcdn.com/w40/ec.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 32",
-    "date": "2026-07-01",
-    "start_time": "2026-07-01T12:00:00-04:00",
-    "team1": {
       "name": "England",
       "flag": "https://flagcdn.com/w40/gb-eng.png"
     },
-    "team2": {
-      "name": "DR Congo",
-      "flag": "https://flagcdn.com/w40/cd.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
+    "group": "Round of 16",
+    "ground": "Atlanta",
     "duration": 2.2
   },
   {
-    "round": "Round of 32",
-    "date": "2026-07-01",
-    "start_time": "2026-07-01T16:00:00-04:00",
-    "team1": {
-      "name": "Belgium",
-      "flag": "https://flagcdn.com/w40/be.png"
-    },
-    "team2": {
-      "name": "Senegal",
-      "flag": "https://flagcdn.com/w40/sn.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 32",
-    "date": "2026-07-01",
-    "start_time": "2026-07-01T20:00:00-04:00",
-    "team1": {
-      "name": "United States",
-      "flag": "https://flagcdn.com/w40/us.png"
-    },
-    "team2": {
-      "name": "Bosnia",
-      "flag": "https://flagcdn.com/w40/ba.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 32",
-    "date": "2026-07-02",
-    "start_time": "2026-07-02T15:00:00-04:00",
-    "team1": {
-      "name": "Spain",
-      "flag": "https://flagcdn.com/w40/es.png"
-    },
-    "team2": {
-      "name": "Austria",
-      "flag": "https://flagcdn.com/w40/at.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 32",
-    "date": "2026-07-02",
-    "start_time": "2026-07-02T19:00:00-04:00",
+    "round": "Round of 16",
+    "date": "2026-07-06",
+    "start_time": "2026-07-06T15:00:00-05:00",
     "team1": {
       "name": "Portugal",
       "flag": "https://flagcdn.com/w40/pt.png"
     },
     "team2": {
-      "name": "Croatia",
-      "flag": "https://flagcdn.com/w40/hr.png"
+      "name": "Spain",
+      "flag": "https://flagcdn.com/w40/es.png"
     },
-    "group": "Round of 32",
-    "ground": "TBD",
+    "group": "Round of 16",
+    "ground": "Kansas City",
     "duration": 2.2
   },
   {
-    "round": "Round of 32",
-    "date": "2026-07-02",
-    "start_time": "2026-07-02T23:00:00-04:00",
+    "round": "Round of 16",
+    "date": "2026-07-06",
+    "start_time": "2026-07-06T19:00:00-05:00",
     "team1": {
-      "name": "Switzerland",
-      "flag": "https://flagcdn.com/w40/ch.png"
+      "name": "United States",
+      "flag": "https://flagcdn.com/w40/us.png"
     },
     "team2": {
-      "name": "Algeria",
-      "flag": "https://flagcdn.com/w40/dz.png"
+      "name": "Belgium",
+      "flag": "https://flagcdn.com/w40/be.png"
     },
-    "group": "Round of 32",
-    "ground": "TBD",
+    "group": "Round of 16",
+    "ground": "Boston",
     "duration": 2.2
   },
   {
-    "round": "Round of 32",
-    "date": "2026-07-03",
-    "start_time": "2026-07-03T14:00:00-04:00",
-    "team1": {
-      "name": "Australia",
-      "flag": "https://flagcdn.com/w40/au.png"
-    },
-    "team2": {
-      "name": "Egypt",
-      "flag": "https://flagcdn.com/w40/eg.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 32",
-    "date": "2026-07-03",
-    "start_time": "2026-07-03T18:00:00-04:00",
+    "round": "Round of 16",
+    "date": "2026-07-07",
+    "start_time": "2026-07-07T15:00:00-05:00",
     "team1": {
       "name": "Argentina",
       "flag": "https://flagcdn.com/w40/ar.png"
     },
     "team2": {
-      "name": "Cape Verde",
-      "flag": "https://flagcdn.com/w40/cv.png"
+      "name": "Egypt",
+      "flag": "https://flagcdn.com/w40/eg.png"
     },
-    "group": "Round of 32",
-    "ground": "TBD",
+    "group": "Round of 16",
+    "ground": "Miami",
     "duration": 2.2
   },
   {
-    "round": "Round of 32",
-    "date": "2026-07-03",
-    "start_time": "2026-07-03T21:30:00-04:00",
+    "round": "Round of 16",
+    "date": "2026-07-07",
+    "start_time": "2026-07-07T19:00:00-05:00",
     "team1": {
+      "name": "Switzerland",
+      "flag": "https://flagcdn.com/w40/ch.png"
+    },
+    "team2": {
       "name": "Colombia",
       "flag": "https://flagcdn.com/w40/co.png"
     },
-    "team2": {
-      "name": "Ghana",
-      "flag": "https://flagcdn.com/w40/gh.png"
-    },
-    "group": "Round of 32",
-    "ground": "TBD",
+    "group": "Round of 16",
+    "ground": "Seattle",
     "duration": 2.2
   }
 ]
