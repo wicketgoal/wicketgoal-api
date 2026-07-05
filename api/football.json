@@ -12,13 +12,13 @@
       "flag": "https://flagcdn.com/w40/ma.png"
     },
     "group": "Round of 16",
-    "ground": "Houston",
+    "ground": "Houston Stadium",
     "duration": 2.2
   },
   {
     "round": "Round of 16",
     "date": "2026-07-04",
-    "start_time": "2026-07-04T17:00:00-05:00",
+    "start_time": "2026-07-04T17:00:00-04:00",
     "team1": {
       "name": "Paraguay",
       "flag": "https://flagcdn.com/w40/py.png"
@@ -28,13 +28,13 @@
       "flag": "https://flagcdn.com/w40/fr.png"
     },
     "group": "Round of 16",
-    "ground": "Philadelphia",
+    "ground": "Philadelphia Stadium",
     "duration": 2.2
   },
   {
     "round": "Round of 16",
     "date": "2026-07-05",
-    "start_time": "2026-07-05T13:00:00-05:00",
+    "start_time": "2026-07-05T16:00:00-04:00",
     "team1": {
       "name": "Brazil",
       "flag": "https://flagcdn.com/w40/br.png"
@@ -44,13 +44,13 @@
       "flag": "https://flagcdn.com/w40/no.png"
     },
     "group": "Round of 16",
-    "ground": "Dallas",
+    "ground": "New York New Jersey Stadium",
     "duration": 2.2
   },
   {
     "round": "Round of 16",
     "date": "2026-07-05",
-    "start_time": "2026-07-05T17:00:00-05:00",
+    "start_time": "2026-07-05T20:00:00-06:00",
     "team1": {
       "name": "Mexico",
       "flag": "https://flagcdn.com/w40/mx.png"
@@ -60,7 +60,7 @@
       "flag": "https://flagcdn.com/w40/gb-eng.png"
     },
     "group": "Round of 16",
-    "ground": "Atlanta",
+    "ground": "Mexico City Stadium",
     "duration": 2.2
   },
   {
@@ -76,13 +76,13 @@
       "flag": "https://flagcdn.com/w40/es.png"
     },
     "group": "Round of 16",
-    "ground": "Kansas City",
+    "ground": "Dallas Stadium",
     "duration": 2.2
   },
   {
     "round": "Round of 16",
     "date": "2026-07-06",
-    "start_time": "2026-07-06T19:00:00-05:00",
+    "start_time": "2026-07-06T20:00:00-07:00",
     "team1": {
       "name": "United States",
       "flag": "https://flagcdn.com/w40/us.png"
@@ -92,13 +92,13 @@
       "flag": "https://flagcdn.com/w40/be.png"
     },
     "group": "Round of 16",
-    "ground": "Boston",
+    "ground": "Seattle Stadium",
     "duration": 2.2
   },
   {
     "round": "Round of 16",
     "date": "2026-07-07",
-    "start_time": "2026-07-07T15:00:00-05:00",
+    "start_time": "2026-07-07T12:00:00-04:00",
     "team1": {
       "name": "Argentina",
       "flag": "https://flagcdn.com/w40/ar.png"
@@ -108,13 +108,13 @@
       "flag": "https://flagcdn.com/w40/eg.png"
     },
     "group": "Round of 16",
-    "ground": "Miami",
+    "ground": "Atlanta Stadium",
     "duration": 2.2
   },
   {
     "round": "Round of 16",
     "date": "2026-07-07",
-    "start_time": "2026-07-07T19:00:00-05:00",
+    "start_time": "2026-07-07T16:00:00-07:00",
     "team1": {
       "name": "Switzerland",
       "flag": "https://flagcdn.com/w40/ch.png"
@@ -124,7 +124,7 @@
       "flag": "https://flagcdn.com/w40/co.png"
     },
     "group": "Round of 16",
-    "ground": "Seattle",
+    "ground": "BC Place Vancouver",
     "duration": 2.2
   }
 ]
