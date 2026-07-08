@@ -1,130 +1,130 @@
 [
   {
-    "round": "Round of 16",
-    "date": "2026-07-04",
-    "start_time": "2026-07-04T13:00:00-05:00",
+    "round": "Quarter-final",
+    "date": "2026-07-09",
+    "start_time": "2026-07-09T16:00:00-04:00",
     "team1": {
-      "name": "Canada",
-      "flag": "https://flagcdn.com/w40/ca.png"
+      "name": "France",
+      "flag": "https://flagcdn.com/w40/fr.png"
     },
     "team2": {
       "name": "Morocco",
       "flag": "https://flagcdn.com/w40/ma.png"
     },
-    "group": "Round of 16",
-    "ground": "Houston Stadium",
+    "group": "Quarter-final",
+    "ground": "Boston Stadium",
     "duration": 2.2
   },
   {
-    "round": "Round of 16",
-    "date": "2026-07-04",
-    "start_time": "2026-07-04T17:00:00-04:00",
+    "round": "Quarter-final",
+    "date": "2026-07-10",
+    "start_time": "2026-07-10T18:00:00-07:00",
     "team1": {
-      "name": "Paraguay",
-      "flag": "https://flagcdn.com/w40/py.png"
-    },
-    "team2": {
-      "name": "France",
-      "flag": "https://flagcdn.com/w40/fr.png"
-    },
-    "group": "Round of 16",
-    "ground": "Philadelphia Stadium",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 16",
-    "date": "2026-07-05",
-    "start_time": "2026-07-05T16:00:00-04:00",
-    "team1": {
-      "name": "Brazil",
-      "flag": "https://flagcdn.com/w40/br.png"
-    },
-    "team2": {
-      "name": "Norway",
-      "flag": "https://flagcdn.com/w40/no.png"
-    },
-    "group": "Round of 16",
-    "ground": "New York New Jersey Stadium",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 16",
-    "date": "2026-07-05",
-    "start_time": "2026-07-05T20:00:00-06:00",
-    "team1": {
-      "name": "Mexico",
-      "flag": "https://flagcdn.com/w40/mx.png"
-    },
-    "team2": {
-      "name": "England",
-      "flag": "https://flagcdn.com/w40/gb-eng.png"
-    },
-    "group": "Round of 16",
-    "ground": "Mexico City Stadium",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 16",
-    "date": "2026-07-06",
-    "start_time": "2026-07-06T15:00:00-05:00",
-    "team1": {
-      "name": "Portugal",
-      "flag": "https://flagcdn.com/w40/pt.png"
-    },
-    "team2": {
       "name": "Spain",
       "flag": "https://flagcdn.com/w40/es.png"
-    },
-    "group": "Round of 16",
-    "ground": "Dallas Stadium",
-    "duration": 2.2
-  },
-  {
-    "round": "Round of 16",
-    "date": "2026-07-06",
-    "start_time": "2026-07-06T20:00:00-07:00",
-    "team1": {
-      "name": "United States",
-      "flag": "https://flagcdn.com/w40/us.png"
     },
     "team2": {
       "name": "Belgium",
       "flag": "https://flagcdn.com/w40/be.png"
     },
-    "group": "Round of 16",
-    "ground": "Seattle Stadium",
+    "group": "Quarter-final",
+    "ground": "Los Angeles Stadium",
     "duration": 2.2
   },
   {
-    "round": "Round of 16",
-    "date": "2026-07-07",
-    "start_time": "2026-07-07T12:00:00-04:00",
+    "round": "Quarter-final",
+    "date": "2026-07-11",
+    "start_time": "2026-07-11T13:00:00-04:00",
+    "team1": {
+      "name": "Norway",
+      "flag": "https://flagcdn.com/w40/no.png"
+    },
+    "team2": {
+      "name": "England",
+      "flag": "https://flagcdn.com/w40/gb-eng.png"
+    },
+    "group": "Quarter-final",
+    "ground": "Miami Stadium",
+    "duration": 2.2
+  },
+  {
+    "round": "Quarter-final",
+    "date": "2026-07-11",
+    "start_time": "2026-07-11T16:00:00-05:00",
     "team1": {
       "name": "Argentina",
       "flag": "https://flagcdn.com/w40/ar.png"
     },
     "team2": {
-      "name": "Egypt",
-      "flag": "https://flagcdn.com/w40/eg.png"
+      "name": "Switzerland",
+      "flag": "https://flagcdn.com/w40/ch.png"
     },
-    "group": "Round of 16",
+    "group": "Quarter-final",
+    "ground": "Kansas City Stadium",
+    "duration": 2.2
+  },
+  {
+    "round": "Semi-final",
+    "date": "2026-07-14",
+    "start_time": "2026-07-14T15:00:00-05:00",
+    "team1": {
+      "name": "Winner Quarter-final 1",
+      "flag": "https://via.placeholder.com/40?text=QF1"
+    },
+    "team2": {
+      "name": "Winner Quarter-final 2",
+      "flag": "https://via.placeholder.com/40?text=QF2"
+    },
+    "group": "Semi-final",
+    "ground": "Dallas Stadium",
+    "duration": 2.2
+  },
+  {
+    "round": "Semi-final",
+    "date": "2026-07-15",
+    "start_time": "2026-07-15T15:00:00-04:00",
+    "team1": {
+      "name": "Winner Quarter-final 3",
+      "flag": "https://via.placeholder.com/40?text=QF3"
+    },
+    "team2": {
+      "name": "Winner Quarter-final 4",
+      "flag": "https://via.placeholder.com/40?text=QF4"
+    },
+    "group": "Semi-final",
     "ground": "Atlanta Stadium",
     "duration": 2.2
   },
   {
-    "round": "Round of 16",
-    "date": "2026-07-07",
-    "start_time": "2026-07-07T16:00:00-07:00",
+    "round": "Third Place",
+    "date": "2026-07-18",
+    "start_time": "2026-07-18T17:00:00-04:00",
     "team1": {
-      "name": "Switzerland",
-      "flag": "https://flagcdn.com/w40/ch.png"
+      "name": "Loser Semi-final 1",
+      "flag": "https://via.placeholder.com/40?text=SF1"
     },
     "team2": {
-      "name": "Colombia",
-      "flag": "https://flagcdn.com/w40/co.png"
+      "name": "Loser Semi-final 2",
+      "flag": "https://via.placeholder.com/40?text=SF2"
     },
-    "group": "Round of 16",
-    "ground": "BC Place Vancouver",
+    "group": "Third Place",
+    "ground": "Miami Stadium",
+    "duration": 2.2
+  },
+  {
+    "round": "Final",
+    "date": "2026-07-19",
+    "start_time": "2026-07-19T15:00:00-04:00",
+    "team1": {
+      "name": "Winner Semi-final 1",
+      "flag": "https://via.placeholder.com/40?text=SF1"
+    },
+    "team2": {
+      "name": "Winner Semi-final 2",
+      "flag": "https://via.placeholder.com/40?text=SF2"
+    },
+    "group": "Final",
+    "ground": "New York New Jersey Stadium",
     "duration": 2.2
   }
 ]
