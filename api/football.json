@@ -1,37 +1,6 @@
 [
   
-  {
-    "round": "Semi-final",
-    "date": "2026-07-14",
-    "start_time": "2026-07-14T14:00:00-05:00",
-    "team1": {
-      "name": "France",
-      "flag": "https://flagcdn.com/w40/fr.png"
-    },
-    "team2": {
-      "name": "Spain",
-      "flag": "https://flagcdn.com/w40/es.png"
-    },
-    "group": "Semi-final",
-    "ground": "Dallas Stadium",
-    "duration": 2.2
-  },
-  {
-    "round": "Semi-final",
-    "date": "2026-07-15",
-    "start_time": "2026-07-15T15:00:00-04:00",
-    "team1": {
-      "name": "England",
-      "flag": "https://flagcdn.com/w40/gb-eng.png"
-    },
-    "team2": {
-      "name": "Argentina",
-      "flag": "https://flagcdn.com/w40/ar.png"
-    },
-    "group": "Semi-final",
-    "ground": "Atlanta Stadium",
-    "duration": 2.2
-  },
+  
   {
     "round": "Third Place",
     "date": "2026-07-18",
